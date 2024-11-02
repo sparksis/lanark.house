@@ -11,6 +11,7 @@ jobs:
   audit-pdf:
     permissions:
       contents: write
+      attestations: write
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
@@ -24,6 +25,9 @@ jobs:
         run: |
           curl -LO --silent https://douglashomes.net/wp-content/uploads/2024/08/Fernie-204LWC.pdf
           sha256sum Fernie-204LWC.pdf >> $GITHUB_STEP_SUMMARY
+      - uses: actions/attest-build-provenance@v1
+        with:
+          subject-path: 'Fernie-204LWC.pdf, fernie-3-2.png'
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
