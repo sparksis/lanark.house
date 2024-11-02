@@ -21,7 +21,7 @@ jobs:
       - name: audit the PDF
         run: |
           curl -LO --silent https://douglashomes.net/wp-content/uploads/2024/08/Fernie-204LWC.pdf
-          sha256sum Fernie-204LWC.pdf >> $GITHUB_STEP_OUTPUT
+          sha256sum Fernie-204LWC.pdf >> $GITHUB_STEP_SUMMARY
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
