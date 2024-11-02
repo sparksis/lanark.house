@@ -13,6 +13,7 @@ This site will capture both the journey of acquiring the property and the initia
 - **Documentation**: Notes on each step of the purchase process, including key decisions and lessons learned.
 - **Resources**: Links and contact information for the individuals and companies involved.
 - **Updates**: Progress updates on the property acquisition and any building or renovation work.
+- **Attestations**: GitHub attestations that capture and track any alterations to key documents and correspondence. These attestations ensure that any changes—especially from the builder—are documented and preserved for accountability.
 
 ## Builder and HOA Information
 
