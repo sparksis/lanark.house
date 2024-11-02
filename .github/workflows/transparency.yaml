@@ -2,7 +2,7 @@ name: Create transparency report
 
 on:
   schedule:
-    - cron: 0 * * * *
+    - cron: 0 */3 * * *
   workflow_dispatch:
   push:
     paths: [.github/workflows/transparency.yaml]
@@ -28,7 +28,7 @@ jobs:
           sha256sum Fernie-204LWC.pdf >> $GITHUB_STEP_SUMMARY
       - uses: actions/attest-build-provenance@v1
         with:
-          subject-path: 'Fernie-204LWC.pdf, fernie-3-2.png'
+          subject-path: '.github/workflows/transparency.yaml, Fernie-204LWC.pdf, fernie-3-2.png'
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
