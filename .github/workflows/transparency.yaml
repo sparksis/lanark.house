@@ -24,11 +24,11 @@ jobs:
           output: fernie-3-2.png
       - name: audit the PDF
         run: |
-          curl -LO --silent https://douglashomes.net/wp-content/uploads/2024/08/Fernie-204LWC.pdf
+          curl -LO --silent https://douglashomes.net/wp-content/uploads/2024/08/Fernie-204LWC-{1..3}.pdf
           sha256sum Fernie-204LWC.pdf >> $GITHUB_STEP_SUMMARY
       - uses: actions/attest-build-provenance@v1
         with:
-          subject-path: '.github/workflows/transparency.yaml, Fernie-204LWC.pdf, fernie-3-2.png'
+          subject-path: '.github/workflows/transparency.yaml, Fernie-*.pdf, fernie-3-2.png'
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
