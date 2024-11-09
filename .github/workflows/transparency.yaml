@@ -15,9 +15,9 @@ jobs:
       attestations: write
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
       - name: screenshot listing page
-        uses: karol-brejna-i/webpage-screenshot-action@v1
+        uses: karol-brejna-i/webpage-screenshot-action@94dd5ca598dcb80be94d5d2c6ad87d550ebbfa48
         with:
           url: https://douglashomes.net/new-home/fernie-3-2/
           mode: wholePage
@@ -26,11 +26,11 @@ jobs:
         run: |
           curl -LO --silent https://douglashomes.net/wp-content/uploads/2024/08/Fernie-204LWC{,-{1..3}}.pdf
           sha256sum Fernie-204LWC.pdf >> $GITHUB_STEP_SUMMARY
-      - uses: actions/attest-build-provenance@v1
+      - uses: actions/attest-build-provenance@ef244123eb79f2f7a7e75d99086184180e6d0018 # v1.4.4
         with:
           subject-path: '.github/workflows/transparency.yaml, Fernie-*.pdf, fernie-3-2.png'
       - name: Commit & Push changes
-        uses: actions-js/push@master
+        uses: actions-js/push@5a7cbd780d82c0c937b5977586e641b2fd94acc5 # v1.5
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           message: 'updating the lanark landing listing @ 204 Langwell Common SE'
