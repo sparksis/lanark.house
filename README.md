@@ -1,6 +1,6 @@
 # Questions for Douglas Homes (Trish Braun)
 
-# Exterior
+## Exterior
 
 | Question | Answer |
 | --- | --- |
@@ -10,7 +10,7 @@
 | You had mentioned that the garage is required due architectural guidelines but that the HOA does not have authority over my property once I take possession, is this correct (for example they cannot there is no authority that prevent me from installing an external security system)? |  |
 | Is there a fence included?  I see many other corner lots have distinguished fences with large columns, is this a requirement/included? |  |
 
-# Garage
+## Garage
 
 | Question | Answer |
 | --- | --- |
@@ -18,16 +18,16 @@
 | Does the garage have power?  If so, does it have a sub panel? |  |
 |  |  |
 
-# Interior
+## Interior
 
-## Basement
+### Basement
 
 | Question | Answer |
 | --- | --- |
 | What is the layout of basement?  At least I’d like to generally understand the position of the furnace and water heater. | I will have the basement drawing to provide to you tomorrow (Sent on October 30) |
 | Are there options for finishing the basement? | No |
 
-## General
+### General
 
 | Question | Answer |
 | --- | --- |
