@@ -2,7 +2,9 @@
 permalink: /
 layout: default
 ---
-# Questions for Douglas Homes (Trish Braun)
+# Questions
+
+This page is a quick list of all of the questions I have for Douglas Homes/Trish Braun about the Airdrie home I am hoping to purchase.
 
 <style>
 div.wrapper {
