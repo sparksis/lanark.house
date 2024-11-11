@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # Questions for Douglas Homes (Trish Braun)
 
 ## Exterior
