@@ -1,7 +1,8 @@
 ---
-permalink: /
+permalink: "/"
 layout: default
 ---
+
 # Questions
 
 This page is a quick list of all of the questions I have for Douglas Homes/Trish Braun about the Airdrie home I am hoping to purchase.
