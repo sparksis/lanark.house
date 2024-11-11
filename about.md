@@ -1,9 +1,8 @@
 ---
+title: lanark.house
+published: false
 ---
 
----
-draft: true
----`
 # [lanark.house](https://lanark.house)
 
 This repository and site serve as a way to document and inventory every step of my new home purchase process.
