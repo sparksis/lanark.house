@@ -5,8 +5,7 @@
 | Question | Answer |
 | --- | --- |
 | Will there be any landscaping? Am I responsible for the landscaping, if so what are the setback dimensions? | Possibly, I believe you mentioned this is required by the melcor during our first discussion.  I would appreciate a confirmation though as I don’t remember. |
-| Is this considered a modern farmhouse design?
-[https://liveinlanark.com/wp-content/uploads/2021/08/Architectural-Guidelines-Summary.pdf](https://liveinlanark.com/wp-content/uploads/2021/08/Architectural-Guidelines-Summary.pdf) | I think you had mentioned this term (farmhouse) at at some point, but I didn’t realize it was part of the community reading material. |
+| Is this considered a modern farmhouse design?<br>[https://liveinlanark.com/wp-content/uploads/2021/08/Architectural-Guidelines-Summary.pdf](https://liveinlanark.com/wp-content/uploads/2021/08/Architectural-Guidelines-Summary.pdf) | I think you had mentioned this term (farmhouse) at at some point, but I didn’t realize it was part of the community reading material. |
 | Does douglas homes have any supplemental material to help me understand what the home will look like visually or do I infer from the the architectural guidelines (above)?  What color will the exterior be etc?  |  |
 | You had mentioned that the garage is required due architectural guidelines but that the HOA does not have authority over my property once I take possession, is this correct (for example they cannot there is no authority that prevent me from installing an external security system)? |  |
 | Is there a fence included?  I see many other corner lots have distinguished fences with large columns, is this a requirement/included? |  |
@@ -32,8 +31,7 @@
 
 | Question | Answer |
 | --- | --- |
-| Can we have ethernet added to the home? | Upgrade existing CAT5 to CAT6- $80 per
-Add CAT 6 - $120 per |
+| Can we have ethernet added to the home? | Upgrade existing CAT5 to CAT6- $80 per<br>Add CAT 6 - $120 per |
 | What is the model number of the ethernet installed? |  |
 | Is the CAT6 certified for 500 Mhz transmission rate (10 gigabit) or will all installation lines be shorter than 95m? | Probably, but not confirmed.  Douglas Homes is employing a subtrade which has never heard of any specification above CAT6.  CAT7 was created in 2002.  Given the house size, it should be quite difficult to exceed the maximum length for CAT6 to operate at 10 gigabit (100m). |
 | How do we ensure that the ethernet ports added are installed in the correct location | Proposal: We can do an electrical walk through.  I’m quite happy to select the studs that the the gang boxes should be installed onto in order to avoid any situation where the ethernet is unusable. <br><br> This was proposed by the site manager in Cochrane. |
