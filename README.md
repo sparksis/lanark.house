@@ -10,6 +10,23 @@ This page is a quick list of all of the questions I have for Douglas Homes/Trish
 div.wrapper {
     min-width: 75vw;
 }
+
+@media print {
+
+    h1,h2,h3 {
+        break-after: avoid;
+    }
+
+    body, div.wrapper, table {
+        width: 100vw;
+        padding: 0;
+        margin: 0;
+    }
+    footer{
+        display: none;
+    }
+}
+
 </style>
 
 ## Exterior
