@@ -1,4 +1,5 @@
 ---
+permalink: /
 layout: default
 ---
 # Questions for Douglas Homes (Trish Braun)
