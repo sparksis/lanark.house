@@ -36,8 +36,6 @@
 Add CAT 6 - $120 per |
 | What is the model number of the ethernet installed? |  |
 | Is the CAT6 certified for 500 Mhz transmission rate (10 gigabit) or will all installation lines be shorter than 95m? | Probably, but not confirmed.  Douglas Homes is employing a subtrade which has never heard of any specification above CAT6.  CAT7 was created in 2002.  Given the house size, it should be quite difficult to exceed the maximum length for CAT6 to operate at 10 gigabit (100m). |
-| How do we ensure that the ethernet ports added are installed in the correct location | Proposal: We can do an electrical walk through.  I’m quite happy to select the studs that the the gang boxes should be installed onto in order to avoid any situation where the ethernet is unusable.
-
-This was proposed by the site manager in Cochrane. |
+| How do we ensure that the ethernet ports added are installed in the correct location | Proposal: We can do an electrical walk through.  I’m quite happy to select the studs that the the gang boxes should be installed onto in order to avoid any situation where the ethernet is unusable. <br><br> This was proposed by the site manager in Cochrane. |
 | Can I have a walk through of the home just before the drywall goes up so I can take photos of studs and key points to avoid if/when I am mounting shelves etc? | Trish/Douglas Homes will provide a good faith attempt to provide a walkthrough prior to the installation of the drywall. |
 | Can I review the blueprints to ensure I’m comfortable with all facets of the design | No. However Trish Braun/Douglas Homes have confirmed that the marketing material are derived from the blueprints and therefore fully to scale/align with the measurements submitted to the planning board and city for approval. |
