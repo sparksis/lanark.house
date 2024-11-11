@@ -1,5 +1,5 @@
 ---
-title: lanark.house
+title: about
 published: false
 ---
 
