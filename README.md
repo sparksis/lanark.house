@@ -3,6 +3,12 @@ layout: default
 ---
 # Questions for Douglas Homes (Trish Braun)
 
+<style>
+div.wrapper {
+    min-width: 75vw;
+}
+</style>
+
 ## Exterior
 
 | Question | Answer |
