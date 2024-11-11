@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 # Questions for Douglas Homes (Trish Braun)
 
