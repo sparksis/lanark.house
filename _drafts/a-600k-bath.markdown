@@ -1,6 +1,0 @@
----
-title: A 600k bath
-date: 2024-11-16 22:26:00 -07:00
----
-
-I'll have more to say about my experience with Douglas Homes and Trish Braun in future posts, but for now, I'm focusing on a crucial detail: the bathtub.  The entire house purchase has been fraught with challenges, and this fixture is, quite frankly, a make-or-break item.  My Schedule A specifies a [Fiberglass Hytec AC759-O](https://www.hytec.ca/product-detail/AC759?skuid=AC759-0), and after reviewing the specs, its near-full-height dimensions are a critical requirement for me.  It's partly why I've continued to work with Trish Braun, despite considerable frustration; securing this tub, and the extra windows included in the Lanark Landing model, were my priorities.  However, her inconsiderate actions, such as repeatedly misspelling my name on legal documents and refusing to correct them, have only added to the stress of this process.  Let's just say the successful installation of this specific bathtub is a very big deal.
