@@ -35,7 +35,7 @@ jobs:
           sha256sum Fernie-204LWC.pdf >> $GITHUB_STEP_SUMMARY
       - uses: actions/attest-build-provenance@ef244123eb79f2f7a7e75d99086184180e6d0018 # v1.4.4
         with:
-          subject-path: '.github/workflows/transparency.yaml, Fernie-*.pdf, fernie-3-2.png, anhwp-new-home-warranty.png, _posts'
+          subject-path: '.github/workflows/transparency.yaml, Fernie-*.pdf, fernie-3-2.png, anhwp-new-home-warranty.png'
       - name: Commit & Push changes
         uses: actions-js/push@5a7cbd780d82c0c937b5977586e641b2fd94acc5 # v1.5
         with:
