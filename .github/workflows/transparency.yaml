@@ -26,8 +26,9 @@ jobs:
         uses: karol-brejna-i/webpage-screenshot-action@94dd5ca598dcb80be94d5d2c6ad87d550ebbfa48
         with:
           url: https://douglashomes.net/airdrie/lanark-landing/
-          mode: wholePage
+          mode: element
           output: lanark-landing.png
+          selector: #showhome > div
       - name: screenshot warranty limits
         uses: karol-brejna-i/webpage-screenshot-action@94dd5ca598dcb80be94d5d2c6ad87d550ebbfa48
         with:
