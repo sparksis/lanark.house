@@ -5,9 +5,10 @@ date: 2024-11-18 10:23:00 -07:00
 ---
 
 **Property Address:** 204 Langwell Common SE, Airdrie, AB
+
 **Lot:** 1
+
 **Block:** 13
-**Model:** Fernie 3
 
 The Lanark Landing Architectural Committee (the “Committee”), pursuant to the discretion granted in Section 10 of the Lanark Landing Architectural Guidelines (the “Guidelines”), hereby unilaterally waives the width requirement for the above-referenced property as defined in Section 3.2.2 of the Guidelines.  This waiver specifically addresses the 8-inch discrepancy between the as-built width of the home and the minimum width specified for the lot size.
 
