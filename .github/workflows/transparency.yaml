@@ -22,7 +22,7 @@ jobs:
           url: https://douglashomes.net/new-home/fernie-3-2/
           mode: wholePage
           output: fernie-3-2.png
-      - name: screenshot listing page
+      - name: screenshot lanark landing contact page
         uses: karol-brejna-i/webpage-screenshot-action@94dd5ca598dcb80be94d5d2c6ad87d550ebbfa48
         with:
           url: https://douglashomes.net/airdrie/lanark-landing/
