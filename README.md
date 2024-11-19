@@ -1,6 +1,7 @@
 ---
 title: About
 permalink: "/"
+layout: home
 ---
 
 # [lanark.house](https://lanark.house)
@@ -15,15 +16,14 @@ This site will capture both the journey of acquiring the property and the initia
 
 ## Contents
 
-- **Documentation**: Notes on each step of the purchase process, including key decisions and lessons learned.
-- **Resources**: Links and contact information for the individuals and companies involved.
-- **Updates**: Progress updates on the property acquisition and any building or renovation work.
-- **Attestations**: GitHub attestations that capture and track any alterations to key documents and correspondence. These attestations ensure that any changes—especially from the builder—are documented and preserved for accountability.
+TODO: fill out what's here
 
 ## Builder and HOA Information
 
 - **Builder**: Douglas Homes LTD
 - **Builder’s Representative**: [Trish Braun](mailto:Trish.braun@shaw.ca)
+- **Developer**: Melcor
+- **Developer's Representative**: [Erin Cripps](mailto:ecripps@melcor.ca)
 - **Homeowners Association (HOA)**: Managed by Core Management, with Lesley Thompson as the point of contact.
 
 For further HOA details, I’ve [kept private documentation](https://drive.google.com/drive/folders/12mOVpt3Z3Fo_Ow8LtMvxJz_7zgvSWNAO?usp=sharing) and correspondence related to HOA fees, community guidelines, and other key aspects to refer back to during the purchase and after closing.
