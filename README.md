@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /
+permalink: "/"
 ---
 
 # [lanark.house](https://lanark.house)
