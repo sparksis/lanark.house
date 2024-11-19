@@ -2,6 +2,8 @@
 title: Trish refused to provide Schedule C
 date: 2024-11-14 12:45:00 -07:00
 published: false
+tags:
+- Trish Braun
 ---
 
 Following up on my previous email, I received a phone call from Trish Braun at Douglas Homes regarding my purchase of 204 Langwell Common SE.  Key issues remain unresolved, particularly Schedule C (Home Warranty) and critical changes to the contract. This post documents the latest interaction and my current position.
