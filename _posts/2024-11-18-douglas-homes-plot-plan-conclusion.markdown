@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Concluding the Plot Plan Convesation with Douglas Homes
-date: 2024-11-18 14:41:51 -0700
-categories: conversations
+date: 2024-11-18 14:41:51 -07:00
+categories:
+- conversations
+layout: post
 ---
 
 I called Trish to follow up on the email I'd sent regarding the plot plan and my conversation with Erin at Melcor.  I wanted to understand why Douglas Homes wouldn't provide a written waiver confirming the house was plotted correctly on the land, especially given Melcor's willingness to have that conversation. Trish reiterated that head office wouldn't provide further documentation and that my options were to proceed with the purchase or accept a refund of my deposit.

@@ -8,9 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  conversations:
-    title: conversations
-    output: true
 description: This repository and site serve as a way to document and inventory every
   step of my new home purchase process.
 baseurl: 
