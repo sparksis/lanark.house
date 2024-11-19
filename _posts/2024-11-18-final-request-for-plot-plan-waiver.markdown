@@ -1,12 +1,12 @@
 ---
-layout: post
 title: Conversation with Trish - Verifying Plot Plan Approval
-date: 2024-11-18 09:44:32 -0700
+date: 2024-11-18 09:44:32 -07:00
 published: false
-categories: 
-  - conversations
+categories:
+- conversations
 tags:
-  - Trish Braun
+- Trish Braun
+layout: post
 drive:
   recording: https://drive.google.com/file/d/1jxEC7VWIkHkLX4MQ4_CzwWFL0v8Gx3us/view?usp=drive_link
 ---
