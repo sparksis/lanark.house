@@ -15,4 +15,4 @@ url: https://lanark.house
 plugins:
 - jekyll-remote-theme
 - jekyll-sitemap
-remote_theme: michaelnordmeyer/jekyll-theme-nix
+remote_theme: glegoux/jekyll-tech-blog
