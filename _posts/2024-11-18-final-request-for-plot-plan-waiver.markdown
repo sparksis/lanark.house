@@ -1,6 +1,6 @@
 ---
 title: Conversation with Trish - Verifying Plot Plan Approval
-date: 2024-11-18 09:17:40 -0700
+date: 2024-11-18 09:17:40 -07:00
 published: false
 categories:
 - conversations
