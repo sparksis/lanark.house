@@ -1,6 +1,5 @@
 ---
 title: about
-published: false
 ---
 
 # [lanark.house](https://lanark.house)
