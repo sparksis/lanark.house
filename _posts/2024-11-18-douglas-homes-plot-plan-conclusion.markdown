@@ -1,6 +1,7 @@
 ---
 title: Concluding the Plot Plan Convesation with Douglas Homes
 date: 2024-11-18 14:41:00 -07:00
+published: false
 categories:
 - conversations
 tags:
