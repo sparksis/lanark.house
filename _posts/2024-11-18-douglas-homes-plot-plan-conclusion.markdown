@@ -6,7 +6,8 @@ categories:
 - conversations
 tags:
 - Trish Braun
-drive.recording: https://drive.google.com/file/d/1o39GNlSlIRC_bEWFuBoFllbkfIjU1drk/view?usp=drive_link
+drive:
+  recording: https://drive.google.com/file/d/1o39GNlSlIRC_bEWFuBoFllbkfIjU1drk/view?usp=drive_link
 layout: post
 ---
 
