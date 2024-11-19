@@ -1,9 +1,13 @@
 ---
 title: Conversation with E2 and Associates - Architectural Guidance Waiver
-date: 2024-11-18 17:02:30 -07:00
+date: 2024-11-18 15:02:30 -07:00
 categories:
 - conversations
 layout: post
+tags:
+- E2 and Associates
+drive:
+  recording: https://drive.google.com/file/d/1fdr-DEpgIaOIMDnW5JaZTgFwaXDf04nz/view?usp=drive_link
 ---
 
 I called E2 and Associates regarding the eight-inch discrepancy between the spec home and the architectural guidelines. I explained that the builder, Douglas Homes, was unwilling to request a waiver and that I needed the waiver to proceed with financing. I asked to speak with someone who could help create a waiver for the discrepancy.
