@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Meeting with Trish - Contract Signing and Questions
-date: 2024-11-12 13:42:00 -0700
-categories: conversations
-tags: 
+date: 2024-11-12 13:42:00 -07:00
+categories:
+- conversations
+tags:
 - Trish Braun
+layout: post
 drive:
   recording: https://drive.google.com/file/d/1WPC1CKvAQ1dBWkKSnx8mIjgim5tLdb6_/view?usp=drive_link
 ---
