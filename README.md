@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: "/"
-layout: home
+layout: page
 ---
 
 # [lanark.house](https://lanark.house)
