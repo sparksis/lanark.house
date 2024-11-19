@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Conversation with Erin - Waiver Process
-date: 2024-11-18 10:03:05 -0700
-categories: conversations
+date: 2024-11-18 10:03:05 -07:00
+categories:
+- conversations
+layout: post
 drive:
   recording: https://drive.google.com/file/d/10ozpAVRtNaj76XGGhW6gIkzf_IioBh_l/view?usp=drive_link
 ---
+
 I called Erin to follow up on an email I'd sent Saturday regarding the process for obtaining a waiver.  I explained I was hoping to move forward with the purchase and had signed the initial paperwork. I needed to present the waiver to the bank to responsibly represent the transaction, specifically addressing the eight-inch discrepancy.
 
 Erin stated that they don't typically go into this level of detail with every purchaser and encouraged me to work with the builder, Trish.  She offered to inquire further, but noted the architectural controls were approved in July, and the house was already built.  She said they work with consultants who review the architectural controls, and those had been approved.
