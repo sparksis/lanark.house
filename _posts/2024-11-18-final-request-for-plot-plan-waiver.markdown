@@ -1,7 +1,6 @@
 ---
 title: Conversation with Trish - Verifying Plot Plan Approval
 date: 2024-11-18 09:17:40 -07:00
-published: false
 categories:
 - conversations
 tags:
@@ -9,6 +8,10 @@ tags:
 layout: post
 drive:
   recording: https://drive.google.com/file/d/1jxEC7VWIkHkLX4MQ4_CzwWFL0v8Gx3us/view?usp=drive_link
+---
+
+This is a combination of two phone calls that happened during the 9AM hour.  They were inturupted briefly as Trish needed to attend a previous appointment with another client (understandably, imo).
+
 ---
 
 I called Trish with questions regarding the PDF document she'd sent. I noted that the document, while e-signed by DW, lacked the typical DocuSign "envelope" which includes authorization and verification information. I wanted to confirm the document's validity for my bank. Trish stated that the signature process was standard and asked what additional information I required.  I explained that I needed the authorization details typically included in a DocuSign package, particularly the verification steps.  Trish said she was unfamiliar with that and that she'd sold hundreds of homes using the current process without issue.
