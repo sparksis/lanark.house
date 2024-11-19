@@ -1,8 +1,10 @@
 ---
 title: Concluding the Plot Plan Convesation with Douglas Homes
-date: 2024-11-18 14:41:51 -07:00
+date: 2024-11-18 14:41:00 -07:00
 categories:
 - conversations
+tags:
+- Trish Braun
 layout: post
 ---
 
