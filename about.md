@@ -1,5 +1,5 @@
 ---
-title: about
+title: About
 ---
 
 # [lanark.house](https://lanark.house)
