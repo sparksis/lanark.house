@@ -2,6 +2,9 @@
 title: lanark.house
 timezone: America/Denver
 collections:
+  grievances:
+    title: Grievances
+    output: true
   posts:
     title: Posts
     output: true
