@@ -3,7 +3,7 @@ title: Timeline
 date: 2024-11-20 19:13:00 -07:00
 ---
 
-```mermaid
+{% mermaid %}
 timeline
     section active negotiation
         Oct 27  : Initial convesation with Trish
@@ -20,5 +20,4 @@ timeline
         Nov 14  : Provided notice that my name is incorrect on the documents
         Nov 16  : Signed amendment for name change [never returned signed by Douglas Homes to accept name change]
         Nov 20  : Provide non-waiver [had not yet recieved amended contract with my legal name]
-
-```
+{% endmermaid %}
