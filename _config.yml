@@ -18,6 +18,5 @@ url: https://lanark.house
 plugins:
 - jekyll-remote-theme
 - jekyll-sitemap
-remote_theme: daviddarnes/garth
-gems:
 - jekyll-mermaid
+remote_theme: daviddarnes/garth
