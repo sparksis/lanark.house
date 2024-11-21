@@ -1,5 +1,5 @@
 ---
-title: Asked for sample terms or a void contract
+title: Denied sample terms or a void contract
 date: 2024-11-20 17:55:00 -07:00
 published: false
 ---
