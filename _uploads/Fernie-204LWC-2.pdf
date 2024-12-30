@@ -21,6 +21,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Page Not Found - Douglas Homes</title>
 <link rel="pingback" href="https://douglashomes.net/xmlrpc.php"><link rel="shortcut icon" href="//douglashomes.net/wp-content/uploads/2016/12/douglas-homes-favicon-152px.png"><link rel="apple-touch-icon-precomposed" href="//douglashomes.net/wp-content/uploads/2024/05/DouglasHomes-35-Years-Stacked.png"><meta name="msapplication-TileColor" content="#ffffff"><meta name="msapplication-TileImage" content="//douglashomes.net/wp-content/uploads/2024/05/DouglasHomes-35-Years-Stacked.png">
+<!-- Google Tag Manager by PYS -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var pys_datalayer_name = "dataLayer";
+	window.dataLayer = window.dataLayer || [];</script> 
+<!-- End Google Tag Manager by PYS -->
 <!-- Search Engine Optimization by Rank Math - https://s.rankmath.com/home -->
 <meta name="robots" content="follow, noindex"/>
 <meta property="og:locale" content="en_US">
