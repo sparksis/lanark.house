@@ -20,7 +20,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Page Not Found - Douglas Homes</title>
-<link rel="pingback" href="https://douglashomes.net/xmlrpc.php"><link rel="shortcut icon" href="//douglashomes.net/wp-content/uploads/2016/12/douglas-homes-favicon-152px.png"><link rel="apple-touch-icon-precomposed" href="//douglashomes.net/wp-content/uploads/2024/05/DouglasHomes-35-Years-Stacked.png"><meta name="msapplication-TileColor" content="#ffffff"><meta name="msapplication-TileImage" content="//douglashomes.net/wp-content/uploads/2024/05/DouglasHomes-35-Years-Stacked.png">
+<link rel="pingback" href="https://douglashomes.net/xmlrpc.php"><link rel="shortcut icon" href="//douglashomes.net/wp-content/uploads/2016/12/douglas-homes-favicon-152px.png"><link rel="apple-touch-icon-precomposed" href="//douglashomes.net/wp-content/uploads/2024/05/DouglasHomes-35-Years-Stacked.png"><meta name="msapplication-TileColor" content="#ffffff"><meta name="msapplication-TileImage" content="//douglashomes.net/wp-content/uploads/2024/05/DouglasHomes-35-Years-Stacked.png">	<!-- Pixel Cat Facebook Pixel Code -->
+	<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+	document,'script','https://connect.facebook.net/en_US/fbevents.js' );
+	fbq( 'init', '1333486651139026' );	</script>
+	<!-- DO NOT MODIFY -->
+	<!-- End Facebook Pixel Code -->
+	
 <!-- Google Tag Manager by PYS -->
 <script data-cfasync="false" data-pagespeed-no-defer>
 	var pys_datalayer_name = "dataLayer";
@@ -1211,6 +1221,15 @@ var renderInvisibleReCaptcha = function() {
 <script type='text/javascript' src='https://douglashomes.net/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
 <script type='text/javascript' src='https://douglashomes.net/wp-content/plugins/cornerstone/assets/dist/js/site/cs-body.js?ver=2.1.6'></script>
 <script type='text/javascript' src='https://douglashomes.net/wp-content/themes/x/framework/legacy/cranium/js/dist/site/x-body.min.js?ver=5.2.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fcaPcEvents = [];
+var fcaPcPost = {"title":"","type":"","id":"0","categories":[]};
+var fcaPcOptions = {"pixel_types":["Facebook Pixel"],"ajax_url":"https:\/\/douglashomes.net\/wp-admin\/admin-ajax.php","debug":"","edd_currency":"USD","nonce":"c18c34b75d","utm_support":"","user_parameters":"","edd_enabled":"","edd_delay":"0","woo_enabled":"","woo_delay":"0","video_enabled":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://douglashomes.net/wp-content/plugins/facebook-conversion-pixel/pixel-cat.min.js?ver=3.0.6'></script>
+<script type='text/javascript' src='https://douglashomes.net/wp-content/plugins/facebook-conversion-pixel/video.js?ver=5.4'></script>
 <script type='text/javascript' src='https://douglashomes.net/wp-includes/js/wp-embed.min.js?ver=5.4'></script>
 <script type='text/javascript' src='//maps.google.com/maps/api/js?v=3.exp&#038;key=AIzaSyCiecfqfC7uvjS4f8gbe8234WKgA5WhbrM&#038;language=en_US&#038;libraries=places%2Cvisualization&#038;ver=6.16p'></script>
 <script type='text/javascript' src='https://douglashomes.net/wp-content/plugins/wp-google-maps-pro/js/jquery.dataTables.min.js?ver=5.4'></script>
