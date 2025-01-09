@@ -1225,7 +1225,7 @@ var renderInvisibleReCaptcha = function() {
 /* <![CDATA[ */
 var fcaPcEvents = [];
 var fcaPcPost = {"title":"","type":"","id":"0","categories":[]};
-var fcaPcOptions = {"pixel_types":["Facebook Pixel"],"ajax_url":"https:\/\/douglashomes.net\/wp-admin\/admin-ajax.php","debug":"","edd_currency":"USD","nonce":"06efb6d8a2","utm_support":"","user_parameters":"","edd_enabled":"","edd_delay":"0","woo_enabled":"","woo_delay":"0","video_enabled":""};
+var fcaPcOptions = {"pixel_types":["Facebook Pixel"],"ajax_url":"https:\/\/douglashomes.net\/wp-admin\/admin-ajax.php","debug":"","edd_currency":"USD","nonce":"86bd24db7e","utm_support":"","user_parameters":"","edd_enabled":"","edd_delay":"0","woo_enabled":"","woo_delay":"0","video_enabled":""};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://douglashomes.net/wp-content/plugins/facebook-conversion-pixel/pixel-cat.min.js?ver=3.0.6'></script>
@@ -1267,7 +1267,7 @@ var wpgm_dt_sNext = "Next";
 var wpgm_dt_sPrevious = "Previous";
 var wpgm_dt_sSearch = "Search";
 var ajaxurl = "https:\/\/douglashomes.net\/wp-admin\/admin-ajax.php";
-var wpgmaps_pro_nonce = "d41d85598f";
+var wpgmaps_pro_nonce = "6c2123356b";
 var wpgmaps_plugurl = "https:\/\/douglashomes.net\/wp-content\/plugins\/wp-google-maps\/";
 var marker_pull = "0";
 var wpgm_g_e = "0";
