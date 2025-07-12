@@ -1,11 +1,11 @@
 name: Create transparency report
 
 on:
-  schedule:
-    - cron: 0 */3 * * *
+  # schedule:
+  #   - cron: 0 */3 * * *
   workflow_dispatch:
-  push:
-    paths: [.github/workflows/transparency.yaml]
+  # push:
+  #   paths: [.github/workflows/transparency.yaml]
 
 jobs:
   audit-pdf:
