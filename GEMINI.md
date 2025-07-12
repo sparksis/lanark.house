@@ -30,13 +30,64 @@ This file contains project-specific context and instructions for the Gemini agen
 -   The writing style should be personal, narrative, and reflective.
 -   Posts should tell a story and share lessons learned from the home-buying experience.
 
-## User Preferences
+## User Preferences & Key Narrative Points
 
--   The user wants to document the entire home-buying process from start to finish.
--   The user is currently working with TD Bank for their mortgage.
--   The user has switched builders at least once.
+The user's home-buying journey involved three distinct phases with three different builders. Understanding this narrative is key to understanding the blog's content. The correct chronological order is: Douglas Homes -> Jayman Built -> Sterling Homes.
+
+### 1. Douglas Homes (Late 2024)
+
+This was the **first** unsuccessful purchase attempt.
+
+*   **Key Contact:** Trish Braun
+*   **Issues:** This experience was defined by a lack of transparency and communication challenges.
+    *   The builder's representative refused to provide a sample contract for review prior to signing.
+    *   There were misrepresentations regarding the HOA rules and restrictive covenants.
+    *   A major conflict arose over an 8-inch plot plan discrepancy between the architectural guidelines and the as-built property.
+    *   The builder was unwilling to seek a formal waiver for this discrepancy from the developer (Melcor) or the architectural committee (E2 and Associates), leading to the deal's collapse in November 2024.
+
+### 2. Jayman Built (Early 2025)
+
+This was the **second** unsuccessful purchase attempt.
+
+*   **Property:** 71 Legacy Reach Court SE
+*   **Issues:** The core of this dispute was a contract discrepancy.
+    *   The purchase agreement, received around March 4, 2025, did not include the larger, upgraded ensuite shower that had been verbally discussed and agreed upon.
+    *   Attempts to resolve this discrepancy and get the desired feature formally added to the contract were unsuccessful, leading to the second collapsed deal.
+    *   Meticulous records of this attempt are stored in the "Legacy House (archived)" folder on Google Drive.
+
+### 3. Sterling Homes (Mid-2025)
+
+This was the **final and successful** purchase.
+
+*   **Property:** 728 Langley Terrace
+*   **Key Contact:** Jason Tang
+*   **Timeline:**
+    *   **May 3, 2025:** Initial contact and information received.
+    *   **May 21, 2025:** Mortgage approval secured with CIBC (after also engaging with ATB).
+    *   **May 28, 2025:** Home inspection completed.
+    *   **June 2, 2025:** Closing date.
+*   **Positive Outcomes:** This experience was a significant improvement over the previous two.
+    *   The process was collaborative and transparent.
+    *   The final home was more affordable than the Jayman property.
+    *   It included key desired features like a full-height tile bathroom and a front garage.
+    *   The quick-possession timeline was a major advantage, allowing the user to move in far sooner than if they had proceeded with either of the other two builders.
 
 ## Workflow Rules
 
 -   **Create Posts as Drafts:** When creating new blog posts, they should be created as drafts. This means they should be placed in the `_drafts` directory and the filename should not contain a date (e.g., `my-new-post.markdown`). The `date` field in the front matter should be omitted.
 
+## Tooling & Context Sources
+
+To regain the full context of the user's home-buying journey, use the following tools and sources:
+
+*   **Google Drive:**
+    *   Use `GOOGLE_DRIVE-FIND-FOLDER` to locate the `"Legacy House (archived)"` folder. This contains all documents related to the Jayman Built purchase attempt.
+    *   Use `GOOGLE_DRIVE-LIST-FILES` to explore the contents of this folder and its subdirectories (`signed purchase agreements`, `Cost Evaluation`, etc.).
+
+*   **Gmail:**
+    *   Use `GMAIL-FIND-EMAIL` with the query `label:ye'-olde-house-legacy-home` to find all emails related to the Jayman Built experience.
+    *   Use `GMAIL-FIND-EMAIL` with queries for key contacts like `"Jason Tang"`, `"Trish Braun"`, or `"Kori-Lynn Corbin"` to find correspondence related to the other purchase attempts.
+
+*   **Local Filesystem:**
+    *   Use `list_directory` on `_uploads/` to find relevant documents, especially within the `_uploads/728 Langley Terrace-20250712T212845Z-1-001/728 Langley Terrace/` directory, which contains all documents for the successful Sterling Homes purchase.
+    *   Use `read_many_files` on the `_posts`, `_drafts`, and `_grievances` directories to get the user's own narrative of events.
