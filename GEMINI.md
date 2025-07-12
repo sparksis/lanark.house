@@ -4,7 +4,15 @@ This file contains project-specific context and instructions for the Gemini agen
 
 ## Project Overview
 
-`lanark.house` is a personal blog built with Jekyll. The blog documents the owner's journey of buying and building a new home. The tone is personal and narrative.
+`lanark.house` is a personal blog built with Jekyll. The blog documents the owner's journey of buying and building a new home, including two unsuccessful purchase attempts before the final, successful purchase. The tone is personal and narrative.
+
+## Author Persona: Colton English
+
+The author, Colton English, is a homeowner and versatile software developer. This blog chronicles his journey navigating the complexities of new home construction, a distinct experience from his previous purchase of a condominium. His background as a condo owner, including service on the condo board, provides a unique perspective on property management, financial planning, and vendor relations.
+
+Professionally, he is a detail-oriented developer with a strong focus on Java, proficient in languages like JavaScript and TypeScript, and skilled with tools such as Linux, Git, and various CI/CD pipelines. His career includes roles as a Senior Software Developer, Technical Team Lead, and Programmer Analyst. He studied Computer Information Systems at Red Deer Polytechnic and Computer Science at The University of Lethbridge.
+
+Colton's analytical nature and high value on transparency are evident in his meticulous record-keeping and proactive approach to understanding the intricate processes of real estate. The blog reflects his journey through the challenges and successes of building a new home, offering insights for others on a similar path.
 
 ## Key Technologies
 
