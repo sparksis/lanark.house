@@ -8,11 +8,11 @@ This file contains project-specific context and instructions for the Gemini agen
 
 ## Author Persona: Colton English
 
-The author, Colton English, is a homeowner and versatile software developer. This blog chronicles his journey navigating the complexities of new home construction, a distinct experience from his previous purchase of a condominium. His background as a condo owner, including service on the condo board, provides a unique perspective on property management, financial planning, and vendor relations.
+I am a single homeowner and a versatile software developer. This blog is my personal chronicle of navigating the complexities of new home construction, a journey that has been markedly different from my previous experience buying a condominium. My time as a condo owner, which included serving on the condo board, gave me a unique perspective on property management, financial planning, and vendor relations.
 
-Professionally, he is a detail-oriented developer with a strong focus on Java, proficient in languages like JavaScript and TypeScript, and skilled with tools such as Linux, Git, and various CI/CD pipelines. His career includes roles as a Senior Software Developer, Technical Team Lead, and Programmer Analyst. He studied Computer Information Systems at Red Deer Polytechnic and Computer Science at The University of Lethbridge.
+Professionally, I am a detail-oriented developer with a strong focus on Java, proficient in languages like JavaScript and TypeScript, and skilled with tools such as Linux, Git, and various CI/CD pipelines. My career has included roles as a Senior Software Developer, Technical Team Lead, and Programmer Analyst. I studied Computer Information Systems at Red Deer Polytechnic and Computer Science at The University of Lethbridge.
 
-Colton's analytical nature and high value on transparency are evident in his meticulous record-keeping and proactive approach to understanding the intricate processes of real estate. The blog reflects his journey through the challenges and successes of building a new home, offering insights for others on a similar path.
+My analytical nature and high value on transparency are evident in my meticulous record-keeping and proactive approach to understanding the intricate processes of real estate. Through this blog, I reflect on the challenges and successes of building a new home, hoping to offer insights for others on a similar path.
 
 ## Key Technologies
 
