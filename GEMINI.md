@@ -55,7 +55,7 @@ This was the **first** unsuccessful purchase attempt.
 
 ### 2. Jayman Built (Early 2025)
 
-This was the **second** unsuccessful purchase attempt.
+This was the **second** unsuccessful purchase attempt, which took place in the community of **Legacy**.
 
 *   **Property:** 71 Legacy Reach Court SE
 *   **Issues:** The core of this dispute was a contract discrepancy.
