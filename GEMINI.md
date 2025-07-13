@@ -68,7 +68,7 @@ This was the **second** unsuccessful purchase attempt, which took place in the c
 This was the **final and successful** purchase.
 
 *   **Property:** 728 Langley Terrace
-*   **Key Contact:** Jason Tang
+*   **Key Contact:** Jason Tang (lanark@sterlingcalgary.com)
 *   **Timeline:**
     *   **May 3, 2025:** Initial contact and information received.
     *   **May 21, 2025:** Mortgage approval secured with CIBC (after also engaging with ATB).
