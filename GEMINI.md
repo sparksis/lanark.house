@@ -101,5 +101,6 @@ To regain the full context of the user's home-buying journey, use the following 
     *   Use `read_many_files` on the `_posts`, `_drafts`, and `_grievances` directories to get the user's own narrative of events.
 
 *   **Notion:**
-    *   Use `NOTION-RETRIEVE-DATABASE-CONTENT` with the instruction `Fetch the database with the title 'Outstanding Builder Activities'.` to get the current list of outstanding work.
-    *   Use `NOTION-CREATE-PAGE-FROM-DATABASE` with the instruction `Create a new page in the 'Outstanding Builder Activities' database with the title 'YOUR_TITLE_HERE'.` to add a new item to the list.
+    *   **Database ID:** `22ea6dfd-466f-80a1-be0d-c2dcfb33c6bc`
+    *   **To retrieve outstanding tasks:** Use `API-post-database-query` with the `database_id` `22ea6dfd-466f-80a1-be0d-c2dcfb33c6bc`.
+    *   **To create a new task:** Use `API-post-page` with the `parent.database_id` as `22ea6dfd-466f-80a1-be0d-c2dcfb33c6bc`.
