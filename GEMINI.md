@@ -46,7 +46,6 @@ The user's home-buying journey involved three distinct phases with three differe
 
 This was the **first** unsuccessful purchase attempt.
 
-*   **Key Contact:** Trish Braun
 *   **Issues:** This experience was defined by a lack of transparency and communication challenges.
     *   The builder's representative refused to provide a sample contract for review prior to signing.
     *   There were misrepresentations regarding the HOA rules and restrictive covenants.
@@ -68,7 +67,6 @@ This was the **second** unsuccessful purchase attempt, which took place in the c
 This was the **final and successful** purchase.
 
 *   **Property:** 728 Langley Terrace
-*   **Key Contact:** Jason Tang (lanark@sterlingcalgary.com)
 *   **Timeline:**
     *   **May 3, 2025:** Initial contact and information received.
     *   **May 21, 2025:** Mortgage approval secured with CIBC (after also engaging with ATB).
@@ -79,6 +77,13 @@ This was the **final and successful** purchase.
     *   The final home was more affordable than the Jayman property.
     *   It included key desired features like a full-height tile bathroom and a front garage.
     *   The quick-possession timeline was a major advantage, allowing the user to move in far sooner than if they had proceeded with either of the other two builders.
+
+## Key Contacts
+
+*   **Trish Braun** (Douglas Homes): trish.braun@shaw.ca
+*   **Erin Cripps** (Melcor): ecripps@melcor.ca
+*   **Jason Tang** (Sterling Homes): lanark@sterlingcalgary.com
+*   **Chad** (iNet Media): chad@inet-media.ca
 
 ## Workflow Rules
 
