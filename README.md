@@ -8,17 +8,55 @@ layout: page
 
 This repository and site serve as a way to document and inventory every step of my new home purchase process.
 
-## Motivation
+## The Journey
 
-While searching for a new home, I realized that for "just a little bit more," building a new house could be within reach. In the process, I've met many talented and motivated individuals eager to help bring this vision to life. Unfortunately, the property I’m most drawn to is being sold by a builder whose representative has, on several occasions, provided incorrect or misleading information.
+My home-buying journey involved three distinct phases with three different builders. The correct chronological order is: Douglas Homes -> Jayman Built -> Sterling Homes.
 
-This site will capture both the journey of acquiring the property and the initial plans for building or customizing it. Once the home purchase is completed, **lanark.house** will evolve to serve as a virtual hub for my home, similar to my [hiddenleaf.network](https://hiddenleaf.network) page.
+### 1. Douglas Homes (Late 2024)
+
+This was the **first** unsuccessful purchase attempt.
+
+*   **Key Contact:** Trish Braun
+*   **Issues:** This experience was defined by a lack of transparency and communication challenges.
+    *   The builder's representative refused to provide a sample contract for review prior to signing.
+    *   There were misrepresentations regarding the HOA rules and restrictive covenants.
+    *   A major conflict arose over an 8-inch plot plan discrepancy between the architectural guidelines and the as-built property.
+    *   The builder was unwilling to seek a formal waiver for this discrepancy from the developer (Melcor) or the architectural committee (E2 and Associates), leading to the deal's collapse in November 2024.
+
+### 2. Jayman Built (Early 2025)
+
+This was the **second** unsuccessful purchase attempt, which took place in the community of **Legacy**.
+
+*   **Property:** 71 Legacy Reach Court SE
+*   **Issues:** The core of this dispute was a contract discrepancy.
+    *   The purchase agreement, received around March 4, 2025, did not include the larger, upgraded ensuite shower that had been verbally discussed and agreed upon.
+    *   Attempts to resolve this discrepancy and get the desired feature formally added to the contract were unsuccessful, leading to the second collapsed deal.
+    *   Meticulous records of this attempt are stored in the "Legacy House (archived)" folder on Google Drive.
+
+### 3. Sterling Homes (Mid-2025)
+
+This was the **final and successful** purchase.
+
+*   **Property:** 728 Langley Terrace
+*   **Key Contact:** Jason Tang (lanark@sterlingcalgary.com)
+*   **Timeline:**
+    *   **May 3, 2025:** Initial contact and information received.
+    *   **May 21, 2025:** Mortgage approval secured with CIBC (after also engaging with ATB).
+    *   **May 28, 2025:** Home inspection completed.
+    *   **June 2, 2025:** Closing date.
+*   **Positive Outcomes:** This experience was a significant improvement over the previous two.
+    *   The process was collaborative and transparent.
+    *   The final home was more affordable than the Jayman property.
+    *   It included key desired features like a full-height tile bathroom and a front garage.
+    *   The quick-possession timeline was a major advantage, allowing the user to move in far sooner than if they had proceeded with either of the other two builders.
 
 ## Contents
 
-TODO: fill out what's here
+This repository contains all the documentation and correspondence related to my home buying journey. This includes emails, contracts, and other relevant files. The `_posts` directory contains the blog posts, which are written in Markdown and generated with Jekyll. The `_drafts` directory contains posts that are still in progress.
 
 ## Builder and HOA Information
+
+### Douglas Homes
 
 - **Builder**: Douglas Homes LTD
 - **Builder’s Representative**: [Trish Braun](mailto:Trish.braun@shaw.ca)
@@ -26,7 +64,13 @@ TODO: fill out what's here
 - **Developer's Representative**: [Erin Cripps](mailto:ecripps@melcor.ca)
 - **Homeowners Association (HOA)**: Managed by Core Management, with Lesley Thompson as the point of contact.
 
-For further HOA details, I’ve [kept private documentation](https://drive.google.com/drive/folders/12mOVpt3Z3Fo_Ow8LtMvxJz_7zgvSWNAO?usp=sharing) and correspondence related to HOA fees, community guidelines, and other key aspects to refer back to during the purchase and after closing.
-Frusteratingly, Trish was quite insistent that there was not a management company made me feel bad for asking for "something no-one else has ever needed".
+### Jayman Built
+
+- **Property:** 71 Legacy Reach Court SE
+
+### Sterling Homes
+
+- **Property:** 728 Langley Terrace
+- **Key Contact:** [Jason Tang](mailto:lanark@sterlingcalgary.com)
 
 Stay tuned for more updates as the process unfolds!
