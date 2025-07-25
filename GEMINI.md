@@ -60,6 +60,9 @@ This was the **second** unsuccessful purchase attempt, which took place in the c
 *   **Issues:** The core of this dispute was a contract discrepancy.
     *   The purchase agreement, received around March 4, 2025, did not include the larger, upgraded ensuite shower that had been verbally discussed and agreed upon.
     *   Attempts to resolve this discrepancy and get the desired feature formally added to the contract were unsuccessful, leading to the second collapsed deal.
+    *   The dispute involved issues with the specifications of the ensuite shower and communication delays.
+    *   The buyer, Colton English, raised concerns about discrepancies in the ensuite shower specifications and communication delays.
+    *   Jayman decided to terminate the purchase agreement and return the deposit.
     *   Meticulous records of this attempt are stored in the "Legacy House (archived)" folder on Google Drive.
 
 ### 3. Sterling Homes (Mid-2025)
@@ -84,6 +87,11 @@ This was the **final and successful** purchase.
 *   **Erin Cripps** (Melcor): ecripps@melcor.ca
 *   **Jason Tang** (Sterling Homes): lanark@sterlingcalgary.com
 *   **Chad** (iNet Media): chad@inet-media.ca
+*   **Kara Junk** (Jayman Built): kjunk@jayman.com
+*   **Stephanie Myers** (Jayman Built): SMyers@jayman.com
+*   **Lisa Werner** (Jayman Built): lwerner@jayman.com
+*   **David Hooge** (Jayman Built): dhooge@jayman.com
+*   **Jay Westman** (Jayman Built): jwestman@jayman.com
 
 ## Workflow Rules
 
