@@ -80,6 +80,9 @@ This was the **final and successful** purchase.
     *   The final home was more affordable than the Jayman property.
     *   It included key desired features like a full-height tile bathroom and a front garage.
     *   The quick-possession timeline was a major advantage, allowing the user to move in far sooner than if they had proceeded with either of the other two builders.
+*   **Warranty & Service:**
+    *   Emails from sterlingcalgary.com relate to warranty and repair work for 728 Langley Terrace.
+    *   Issues include roof, drywall, eavestrough, fireplace, and smart home installation coordination.
 
 ## Key Contacts
 
@@ -92,6 +95,9 @@ This was the **final and successful** purchase.
 *   **Lisa Werner** (Jayman Built): lwerner@jayman.com
 *   **David Hooge** (Jayman Built): dhooge@jayman.com
 *   **Jay Westman** (Jayman Built): jwestman@jayman.com
+*   **Brent Moulding** (Sterling Homes): bmoulding@sterlingcalgary.com
+*   **Jaspreet Gill** (Sterling Homes): jaspreet.gill@sterlingcalgary.com
+*   **Deborah Curran** (Sterling Homes): deborah.curran@sterlingcalgary.com
 
 ## Workflow Rules
 
