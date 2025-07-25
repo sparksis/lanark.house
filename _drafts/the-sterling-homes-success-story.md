@@ -1,8 +1,16 @@
 ---
+title: 'The Silver Lining: How I Won with Sterling Homes'
+date: 2025-07-12 20:06:51 -06:00
+categories:
+- house
+- sterling-homes
+- journey
+- reflection
+tags:
+- sterling-homes
+- new-build
+- success-story
 layout: post
-title: "The Silver Lining: How I Won with Sterling Homes"
-categories: [journey, reflection]
-tags: [sterling-homes, new-build, success-story]
 ---
 
 After a long and often frustrating journey, my story has a very happy ending. Finding my home with Sterling Homes wasn't just a relief; it was a clear win. When I compare my final purchase to the other options I considered, it's obvious that I landed in a much better place.

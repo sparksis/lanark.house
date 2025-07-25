@@ -1,9 +1,16 @@
 ---
+title: 'Under the Magnifying Glass: A Flawless Home Inspection'
+date: 2025-05-28 01:00:00 -06:00
+categories:
+- house
+- sterling-homes
+- journey
+tags:
+- new-build
+- home-inspection
+- quality
+- due-diligence
 layout: post
-title: "Under the Magnifying Glass: A Flawless Home Inspection"
-date: 2025-05-28 00:00:00 -07:00
-categories: [journey, sterling-homes]
-tags: [new-build, home-inspection, quality, due-diligence]
 ---
 
 The home inspection is the moment of truth. It's when a neutral, third-party expert puts the builder's work under a microscope. After my previous experiences, I was bracing for a long list of deficiencies and a battle over repairs. The inspection for 728 Langley Terrace, conducted on May 28, 2025, was, once again, a pleasant surprise.

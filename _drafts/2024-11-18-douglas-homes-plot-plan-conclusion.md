@@ -2,9 +2,15 @@
 title: Concluding the Plot Plan Convesation with Douglas Homes
 date: 2024-11-18 14:41:00 -07:00
 categories:
-- conversations
+- house
 tags:
 - Trish Braun
+- douglas-homes
+- conversations
+- plot-plan
+- dispute-resolution
+- risk-management
+- communication
 drive:
   recording: https://drive.google.com/file/d/1o39GNlSlIRC_bEWFuBoFllbkfIjU1drk/view?usp=drive_link
 layout: post

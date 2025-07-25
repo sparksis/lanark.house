@@ -1,8 +1,19 @@
 ---
+title: 'The Legacy Debacle: A Case Study in Contractual Deception'
+date: 2025-07-12 20:06:51 -06:00
+categories:
+- house
+- jayman-built
+- journey
+- reflection
+tags:
+- jayman-built
+- legacy-community
+- contracts
+- due-diligence
+- communication
+- consumer-protection
 layout: post
-title: "The Legacy Debacle: A Case Study in Contractual Deception"
-categories: [journey, reflection]
-tags: [jayman-built, legacy-community, contracts, due-diligence, communication, consumer-protection]
 ---
 
 My second attempt to buy a new home became the most profound and painful lesson of my entire home-buying journey. The experience with Jayman Built in the community of Legacy was not just a failed transaction; it was a deep dive into the chasm that can exist between marketing promises and contractual reality. This is the full story, documented with timelines, documents, and my own words from the email chains, offered as a cautionary tale for any prospective home buyer.

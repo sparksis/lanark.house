@@ -1,9 +1,17 @@
 ---
+title: 'The Mortgage Maze: A Smooth Path to Approval'
+date: 2025-05-21 01:00:00 -06:00
+categories:
+- house
+- sterling-homes
+- journey
+tags:
+- new-build
+- mortgage
+- financing
+- cibc
+- atb
 layout: post
-title: "The Mortgage Maze: A Smooth Path to Approval"
-date: 2025-05-21 00:00:00 -0700
-categories: [journey, sterling-homes]
-tags: [new-build, mortgage, financing, cibc, atb]
 ---
 
 Securing a mortgage is one of the most stressful parts of buying a home. It's a whirlwind of paperwork, credit checks, and anxious waiting. Having gone through the process before, I was prepared for a bumpy ride. My experience with Sterling Homes, however, was anything but.

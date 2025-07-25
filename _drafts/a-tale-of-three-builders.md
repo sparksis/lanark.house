@@ -1,8 +1,17 @@
 ---
+title: 'A Tale of Three Builders: Lessons from a Winding Road to a New Home'
+date: 2025-07-12 20:06:50 -06:00
+categories:
+- house
+- journey
+- reflection
+tags:
+- home-buying
+- lessons-learned
+- jayman-built
+- douglas-homes
+- sterling-homes
 layout: post
-title: "A Tale of Three Builders: Lessons from a Winding Road to a New Home"
-categories: [journey, reflection]
-tags: [home-buying, lessons-learned, jayman-built, douglas-homes, sterling-homes]
 ---
 
 My path to a new home wasn't a straight line. It was a winding road with two major detours before I found my final destination. I navigated purchase agreements with three different builders, and each experience taught me invaluable lessons about contracts, communication, and the importance of a builder's integrity.

@@ -1,9 +1,16 @@
 ---
+title: 'The Outsourcing of Accountability: A Final Verdict on Sterling Homes'
+date: 2025-06-20 01:00:00 -06:00
+categories:
+- house
+- sterling-homes
+- journey
+tags:
+- customer-service
+- accountability
+- transparency
+- final-verdict
 layout: post
-title: "The Outsourcing of Accountability: A Final Verdict on Sterling Homes"
-date: 2025-06-20 00:00:00 -07:00
-categories: [journey, sterling-homes]
-tags: [customer-service, accountability, transparency, final-verdict]
 ---
 
 My journey with Sterling Homes was a tale of two companies. The first, the sales and construction company, was a model of professionalism and quality. They built a beautiful home, and they made the purchasing process a smooth and transparent experience. The second, the post-possession service company, was a case study in dysfunction, defined by a dismissive representative and a broken, mandatory communication app.

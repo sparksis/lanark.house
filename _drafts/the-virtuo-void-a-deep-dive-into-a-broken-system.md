@@ -1,9 +1,16 @@
 ---
+title: 'The Virtuo Void: A Deep Dive into a Broken System'
+date: 2025-06-10 01:00:00 -06:00
+categories:
+- house
+- sterling-homes
+- journey
+tags:
+- customer-service
+- technology
+- virtuo
+- frustration
 layout: post
-title: "The Virtuo Void: A Deep Dive into a Broken System"
-date: 2025-06-10 00:00:00 -0700
-categories: [journey, sterling-homes]
-tags: [customer-service, technology, virtuo, frustration]
 ---
 
 My interactions with Sterling Homes' service team were filtered through a mandatory third-party app called Virtuo. In theory, it was meant to be a centralized hub for communication, service requests, and scheduling. In practice, it was a masterclass in how to build a system that is not just non-functional, but actively hostile to the user.

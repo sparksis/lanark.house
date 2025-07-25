@@ -1,9 +1,16 @@
 ---
+title: 'A Pattern of Dismissal: The ''Mike'' Problem'
+date: 2025-06-15 01:00:00 -06:00
+categories:
+- house
+- sterling-homes
+- journey
+tags:
+- customer-service
+- communication
+- transparency
+- frustration
 layout: post
-title: "A Pattern of Dismissal: The 'Mike' Problem"
-date: 2025-06-15 00:00:00 -0700
-categories: [journey, sterling-homes]
-tags: [customer-service, communication, transparency, frustration]
 ---
 
 If the Virtuo app was the technological barrier to getting service, Mike was the human one. My interactions with him went beyond a simple personality clash; they revealed a consistent pattern of dismissive, deceptive, and unprofessional behavior that shattered my trust in Sterling's commitment to post-possession service.

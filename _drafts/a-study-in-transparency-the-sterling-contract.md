@@ -1,9 +1,16 @@
 ---
+title: 'A Study in Transparency: The Sterling Contract'
+date: 2025-05-05 01:00:00 -06:00
+categories:
+- house
+- sterling-homes
+- journey
+tags:
+- new-build
+- contracts
+- transparency
+- legal
 layout: post
-title: "A Study in Transparency: The Sterling Contract"
-date: 2025-05-05 00:00:00 -0700
-categories: [journey, sterling-homes]
-tags: [new-build, contracts, transparency, legal]
 ---
 
 After my previous experiences with opaque and incomplete contracts, I approached the Sterling Homes purchase agreement with a healthy dose of skepticism and a fine-toothed comb. I was prepared for a battle of redlines and clarifications. What I received, however, was a lesson in how a professional and transparent contract process should work.

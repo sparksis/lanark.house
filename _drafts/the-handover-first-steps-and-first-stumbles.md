@@ -1,9 +1,15 @@
 ---
+title: 'The Handover: First Steps and First Stumbles'
+date: 2025-06-02 01:00:00 -06:00
+categories:
+- house
+- sterling-homes
+- journey
+tags:
+- possession
+- customer-service
+- communication
 layout: post
-title: "The Handover: First Steps and First Stumbles"
-date: 2025-06-02 00:00:00 -0700
-categories: [journey, sterling-homes]
-tags: [possession, customer-service, communication]
 ---
 
 June 2nd, 2025, was possession day. The culmination of a month of smooth, professional, and almost surprisingly pleasant interactions with Sterling Homes. The sales process, led by Jason Tang, had been a masterclass in how to build trust. The home inspection had been flawless. I walked into the final handover meeting with a sense of optimism and excitement.

@@ -1,9 +1,16 @@
 ---
+title: 'A New Beginning: First Impressions of Sterling Homes'
+date: 2025-05-03 01:00:00 -06:00
+categories:
+- house
+- sterling-homes
+- journey
+tags:
+- new-build
+- sales-experience
+- transparency
+- communication
 layout: post
-title: "A New Beginning: First Impressions of Sterling Homes"
-date: 2025-05-03 00:00:00 -0700
-categories: [journey, sterling-homes]
-tags: [new-build, sales-experience, transparency, communication]
 ---
 
 After two failed attempts at buying a new home, my guard was up. I had become accustomed to ambiguity, to chasing down details, and to a general feeling of adversarial tension. Walking into the Sterling Homes sales office in early May 2025, I was prepared for more of the same. What I found was a breath of fresh air that completely reset my expectations.

@@ -2,8 +2,15 @@
 title: Trish refused to provide Schedule C
 date: 2024-11-14 12:45:00 -07:00
 published: false
+categories:
+- house
 tags:
 - Trish Braun
+- douglas-homes
+- contract
+- dispute
+- home-warranty
+- legal
 layout: post
 ---
 

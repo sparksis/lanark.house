@@ -2,9 +2,15 @@
 title: Conversation with E2 and Associates - Architectural Guidance Waiver
 date: 2024-11-18 15:02:30 -07:00
 categories:
-- conversations
+- house
 tags:
 - E2 and Associates
+- douglas-homes
+- conversations
+- architectural-guidelines
+- waiver
+- developer
+- advocacy
 layout: post
 drive:
   recording: https://drive.google.com/file/d/1fdr-DEpgIaOIMDnW5JaZTgFwaXDf04nz/view?usp=drive_link
