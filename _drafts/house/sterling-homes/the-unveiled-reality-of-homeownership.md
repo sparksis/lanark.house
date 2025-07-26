@@ -1,20 +1,43 @@
 ---
 layout: post
-title: "Beyond the Build: The First Year of Homeownership"
+title: "The Unveiled Reality of Homeownership: My Experience with Sterling Homes"
 date: 2025-07-26 12:25:00 -0600
 tags: [sterling-homes, home-buying, customer-service, transparency, lessons-learned, virtuo]
 ---
 
-The journey to homeownership doesn’t end when you get the keys. In many ways, it’s just the beginning. The first year in a new home is a learning experience, a time of settling in, and, inevitably, a period of discovering the small imperfections that come with any new build. My experience with Sterling Homes was a reminder that even a smooth and transparent purchase process can be followed by a post-possession phase with its own set of challenges.
+Greetings, fellow home dreamers. It's your friend Colton, sharing a chapter from my life's book: the rollercoaster ride of buying a home. Not just any home, my first home. As a single buyer, I was drawn to Sterling Homes, hoping for a smooth-sailing journey. While I did find patches of calm, there were also some tempestuous waves. So, I thought I’d share my story, detailing the highs and lows and offering a few lessons learned along the way.
 
-The initial sales and closing process with Sterling was a breath of fresh air. The team was communicative, transparent, and professional. I felt confident and excited about my new home at 728 Langley Terrace. But as I settled in, the realities of new homeownership began to surface.
+Our tale starts on a sunny day in May 2025, when I first stepped into the world of Sterling Homes. I had the pleasure of meeting Jason Tang, a sales representative who was as eager as I was to help shape my homeowning dreams into reality. Jason was the epitome of efficiency, always patient and attentive even when my curiosity churned out an endless series of questions.
 
-One of the first challenges was the Virtuo app, a platform designed to streamline communication and service requests. In theory, it was a great idea. In practice, it was a source of frustration. The app was plagued with inaccuracies, synchronization issues, and lost data. What was meant to be a tool for clear communication became a barrier to it.
+A few days later, Jason and I delved into the purchase agreement. His clear and concise explanations reassured me. I felt the thrill of stepping on the road to homeownership when I secured my mortgage approval later in May. It was a surprisingly smooth process, and I felt confident that I had made the right choice.
 
-This experience highlighted the importance of having multiple channels of communication with your builder. Technology can be a powerful tool, but it’s not always reliable. It’s essential to have a direct line to the people who can help you when issues arise.
+On May 28, I experienced the meticulous professionalism of Marty Keough. As a home inspector, Marty was relentless in his pursuit of quality assurance for my soon-to-be home. His thorough inspection and reassuring words painted a rosy picture of my upcoming life at 728 Langley Terrace.
 
-The first year also brought a series of warranty and repair issues, from minor drywall touch-ups to more significant items like eavestrough and fireplace repairs. Navigating this process required patience, persistence, and meticulous record-keeping. Each issue was a lesson in the importance of staying on top of scheduling, following up on communications, and advocating for your needs as a homeowner.
+The first week of June marked my official entry into homeownership. I took possession of my new home and met Mike, the site supervisor. At first glance, Mike seemed helpful, but little did I know, this was the calm before the storm.
 
-The contrast between the smooth purchase process and the challenging post-possession phase was stark. It was a reminder that the home-buying journey has many chapters. The initial purchase is just the first. The real story of homeownership unfolds in the months and years that follow.
+As a software developer, I was thrilled when I learned that Sterling Homes offered a home setup app, Virtuo. The idea of a digital assistant to help in my homeownership journey was exciting. However, the supposed silver lining soon turned into a thundercloud. Beginning June 10, I faced a barrage of issues with the app: faulty service schedules, persisting synchronization issues, and disappearing log data. The small tech hiccup turned into a gaping tech pothole that started to taint my homeownership journey.
 
-For any new homeowner, my advice is this: be prepared for the unexpected. The first year will likely bring a few surprises. Stay organized, communicate clearly, and don’t be afraid to be persistent. And remember, every challenge is a learning opportunity, a chance to become a more informed and empowered homeowner.
+When I reached out to Mike for assistance with the Virtuo issues, I expected understanding and assistance. Instead, I found dismissal and unresponsiveness. His indifference stung, making me feel more like a nuisance than a valued customer. It was a harsh contrast to the welcoming attitude I had experienced during the buying process.
+
+By June 20, my previously smooth journey with Sterling Homes felt like a ship stuck in a relentless storm. I reported an issue with my eavestroughs at the end of June, hoping for a quick resolution. Instead, I found myself dragged through a sluggish process of repair scheduling and communication that lasted through July and August.
+
+During those summer months, I navigated a sea of warranty and repair issues. I had meetings with Brent Moulding for drywall repairs, Deborah Curran for a warranty inspection appointment, and Enercare for fireplace repairs. I even had to coordinate concrete work for the driveway and walkway and arrange ceiling texture repairs. Each step required coordination, patience, and a lot of follow-ups.
+
+Reflecting on my year as a homeowner, I see the stark contrast between the smooth sales process and the rocky post-possession phase. The encouraging professionalism of people like Jason Tang and Marty Keough at the beginning filled me with hope. However, the post-possession phase, fraught with a broken, mandatory communication app and a dismissive site supervisor, felt like a storm I had to weather alone.
+
+So, what wisdom can I impart to new home buyers from my journey?
+
+First, always remember that the path to your dream home isn't always smooth. Brace yourself for some bumps, delays, and frustrations.
+
+Second, never underestimate the power of communication. Demand clear, timely, and respectful interactions from everyone involved. If you feel dismissed or ignored, don’t hesitate to escalate the issue.
+
+Third, persistence is your best friend. You’ll face follow-up fatigue and repair delays, but don’t let them wear you down. Keep records, document issues, and stay on top of scheduling. It will pay off in the end.
+
+Finally, be prepared for technology letdowns. The Virtuo app was supposed to make life easier, but instead, it became a source of frustration. If your builder uses a similar platform, be proactive in reporting issues and don’t rely solely on it for all communications.
+
+In conclusion, becoming a homeowner is a milestone and a journey. My ride with Sterling Homes taught me patience and persistence. The stark contrast between the pre and post-possession phases was an eye-opening lesson in the realities of new homeownership.
+
+To those of you ready to embark on this journey, remember that the path to your dream home may be rough and full of unexpected twists. Stay informed, stay persistent, and don’t forget to savor the joy of turning a house into a home.
+
+Happy homeownership to you all!  
+— Colton English, proud homeowner and software developer at 728 Langley Terrace, June 2025 onward.
