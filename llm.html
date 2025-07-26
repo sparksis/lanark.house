@@ -1,0 +1,15 @@
+---
+layout: none
+---
+
+<main id="llm-content">
+  {% for post in site.posts reversed %}
+    <article class="post">
+      <header>
+        <h2 class="post-title">{{ post.title }}</h2>
+        <time class="post-date">{{ post.date | date_to_string }}</time>
+      </header>
+      {{ post.content }}
+    </article>
+  {% endfor %}
+</main>
