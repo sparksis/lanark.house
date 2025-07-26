@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The State of the House: A Sterling Homes Warranty and Repair Review"
-date: 2025-07-26 12:40:00 -0600
+date: 2025-07-12 20:06:51 -06:00
 tags: [sterling-homes, home-buying, customer-service, transparency, lessons-learned, warranty, repair]
 ---
 

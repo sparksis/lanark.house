@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The 8-Inch Divide: A Cautionary Tale of Broken Trust and Lost Opportunity with Douglas Homes"
-date: 2025-07-26 12:05:00 -0600
+date: 2024-11-18 14:41:00 -0700
 tags: [douglas-homes, home-buying, plot-plan, dispute, transparency, lessons-learned]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Shower and the Silence: A Story of Unmet Expectations"
-date: 2025-07-26 12:15:00 -0600
+date: 2025-04-28 15:29:08 -0600
 tags: [jayman-built, home-buying, contracts, transparency, lessons-learned, dispute]
 ---
 

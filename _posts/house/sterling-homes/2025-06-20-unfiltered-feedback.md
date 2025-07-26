@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Unfiltered Feedback to Sterling Homes"
-date: 2025-07-26 12:35:00 -0600
+date: 2025-06-20 01:00:00 -06:00
 tags: [sterling-homes, home-buying, customer-service, transparency, lessons-learned, virtuo]
 ---
 

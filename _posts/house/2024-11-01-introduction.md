@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Journey Home: A Guide to Navigating the New Home Build Process"
-date: 2025-07-26 11:55:00 -0600
+date: 2024-11-01 12:00:00 -0700
 tags: [home-buying, introduction, lessons-learned]
 ---
 

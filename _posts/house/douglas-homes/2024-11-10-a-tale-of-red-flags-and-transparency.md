@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Tale of Red Flags and Transparency: My Experience with Douglas Homes"
-date: 2025-07-26 12:00:00 -0600
+date: 2024-11-10 12:00:00 -0700
 tags: [douglas-homes, home-buying, contracts, transparency, lessons-learned, red-flags]
 ---
 

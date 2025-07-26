@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Journey to Finding the Perfect Abode: My Home-buying Saga with Sterling Homes"
-date: 2025-07-26 12:20:00 -0600
+date: 2025-05-03 01:00:00 -06:00
 tags: [sterling-homes, home-buying, transparency, lessons-learned, customer-service]
 ---
 

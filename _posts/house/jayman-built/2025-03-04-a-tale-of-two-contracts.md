@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Tale of Two Contracts: Lessons from Buying a Jayman Built Home"
-date: 2025-07-26 12:10:00 -0600
+date: 2025-03-04 12:00:00 -0700
 tags: [jayman-built, home-buying, contracts, transparency, lessons-learned]
 ---
 
