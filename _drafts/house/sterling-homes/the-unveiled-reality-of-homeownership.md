@@ -40,4 +40,4 @@ In conclusion, becoming a homeowner is a milestone and a journey. My ride with S
 To those of you ready to embark on this journey, remember that the path to your dream home may be rough and full of unexpected twists. Stay informed, stay persistent, and don’t forget to savor the joy of turning a house into a home.
 
 Happy homeownership to you all!  
-— Colton English, proud homeowner and software developer at 728 Langley Terrace, June 2025 onward.
+— Colton English, proud homeowner at 728 Langley Terrace, June 2025 onward.

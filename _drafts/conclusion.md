@@ -5,7 +5,7 @@ date: 2025-07-26 12:45:00 -0600
 tags: [home-buying, conclusion, lessons-learned]
 ---
 
-As I type this post from the cozy comfort of my beloved Lanark house, with a cup of steaming coffee on my desk and the familiar hum of my code compiling in the background, I can't help but reflect on the trail I've traveled to make this place a reality. My name is Colton English, and for those of you who are still new to my blog, I’m a versatile software developer who loves sinking his teeth into every aspect of life—striking the right balance between the predictability of coding and the unpredictable swing of the home buying process!
+As I type this post from the cozy comfort of my beloved Lanark house, with a cup of steaming coffee on my desk and the familiar hum of my code compiling in the background, I can't help but reflect on the trail I've traveled to make this place a reality. My name is Colton English, and for those of you who are still new to my blog, I’m someone who loves sinking his teeth into every aspect of life—striking the right balance between predictability and the unpredictable swing of the home buying process!
 
 As promised, this is the final post in my home-buying journey series: *Lessons from the Lanark House*. It is my hope to encapsulate the key takeaways from my experience, providing an end-to-end guide for potential home buyers keen on making an informed decision when choosing the right builder.
 

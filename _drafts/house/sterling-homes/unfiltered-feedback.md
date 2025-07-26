@@ -5,7 +5,7 @@ date: 2025-07-26 12:35:00 -0600
 tags: [sterling-homes, home-buying, customer-service, transparency, lessons-learned, virtuo]
 ---
 
-Greetings all, Colton English here. I happen to be a versatile software developer by profession, and a relatively fresh homeowner—sterling indeed when it comes to brands making rounds in the domain. I acknowledge upfront that I've had some positive experiences with a few standout members of the Sterling Homes team. However, the overall process has left a bitter enough taste in my mouth that I'm left doubting whether I'd recommend them to potential home buyers.
+Greetings all, Colton English here. I acknowledge upfront that I've had some positive experiences with a few standout members of the Sterling Homes team. However, the overall process has left a bitter enough taste in my mouth that I'm left doubting whether I'd recommend them to potential home buyers.
 
 The journey of home buying should be an exciting time paved with open, respectful communication and teamwork. Unfortunately, my journey with Sterling was hampered by poor interpersonal communication—particularly with an employee named Mike. I found Mike's conduct dismissive and unprofessional, largely ignoring my concerns as valid customer needs and blatantly talking over his colleagues during our interactions. For example, when I raised a concern about the washer and dryer door alignment, rather than acknowledging the issue, Mike dismissed it outright, which made me feel unheard and defensive. He also talked over his colleague Yaz when she pointed out a visible dark spot on the ceiling. Mike’s lack of empathy and disregard for client input made me question my decision to trust Sterling Homes for one of the most significant purchases in my life.
 

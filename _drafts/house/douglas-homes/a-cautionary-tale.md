@@ -29,7 +29,7 @@ I’m sharing this because buying a home is one of the biggest investments you�
 
 **Final Thoughts**
 
-As a software developer, I value precision, honesty, and accountability. These are qualities I expected from my builder but didn’t get. If you want a smooth, trustworthy home buying experience, look elsewhere. Learn from my mistakes so you don’t have to live through the same frustrations.
+I value precision, honesty, and accountability. These are qualities I expected from my builder but didn’t get. If you want a smooth, trustworthy home buying experience, look elsewhere. Learn from my mistakes so you don’t have to live through the same frustrations.
 
 Stay informed, stay cautious, and good luck on your home buying journey.
 
