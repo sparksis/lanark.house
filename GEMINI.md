@@ -110,6 +110,7 @@ This was the **final and successful** purchase.
 ## Workflow Rules
 
 -   **Create Posts as Drafts:** When creating new blog posts, they should be created as drafts. This means they should be placed in the `_drafts` directory and the filename should not contain a date (e.g., `my-new-post.markdown`). The `date` field in the front matter should be omitted.
+-   **Content Generation:** When creating new blog posts, use the `openai_chat` tool to generate longer and more detailed content. Provide the tool with appropriate context and grounding from the user's emails, Google Drive documents, and existing blog posts.
 
 ## Tooling & Context Sources
 
