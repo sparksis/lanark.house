@@ -5,7 +5,7 @@ date: 2025-06-15 01:00:00 -06:00
 tags: [sterling-homes, home-buying, customer-service, transparency, lessons-learned]
 ---
 
-Hello everyone, it’s your friendly software developer and slightly less adept home connoisseur, Colton English speaking. Being a first-time homeowner, I have been fortunate to uncover a lot of revelations down this winding path. The most recent on this trail comes in the form of site supervisor, Mike, a man with exceptional construction knowledge but questionable interpersonal skills. I’ve thought long and hard, and while there are commendable parts, this review of Mike calls for honesty.
+Hello everyone, it's Colton English. Being a first-time homeowner, I have been fortunate to uncover a lot of revelations down this winding path. The most recent on this trail comes in the form of site supervisor, Mike, a man with exceptional construction knowledge but questionable interpersonal skills. I’ve thought long and hard, and while there are commendable parts, this review of Mike calls for honesty.
 
 When it comes to expertise in the construction domain, Mike aced it. His proficiency was highly palpable. During the project walkthroughs, he would effortlessly manage to find snags and discrepancies, making sure those were ironed out before moving forward. His meticulous attention to detail ensured that I was getting the highest quality services. If there had been a contest for knowing technical blueprints the best, Mike would be nothing short of a champion.
 

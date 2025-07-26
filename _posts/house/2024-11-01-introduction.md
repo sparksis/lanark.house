@@ -5,7 +5,7 @@ date: 2024-11-01 12:00:00 -0700
 tags: [home-buying, introduction, lessons-learned]
 ---
 
-Welcome! I’m Colton English, and as of late, an unexpected home builder. You might wonder how this began. To be honest, I’ve wondered the same. With little more than a fascination for architecture and a penchant for fixer-upper TV shows, I stumbled upon the wild and winding world of new home builds, and let me tell you, it has been nothing short of a remarkable journey. This blog, *My Journey Home,* is my way of penning down my experiences, the highs and lows, the triumphs and the missteps.
+Welcome! I’m Colton English, and this is the story of my journey as a new home builder. You might wonder how this began. To be honest, I’ve wondered the same. With little more than a fascination for architecture and a penchant for fixer-upper TV shows, I stumbled upon the wild and winding world of new home builds, and let me tell you, it has been nothing short of a remarkable journey. This blog, *My Journey Home,* is my way of penning down my experiences, the highs and lows, the triumphs and the missteps.
 
 My journey home-building began in earnest a little over a year ago, without a blueprint (pun very much intended). All I knew was that I wanted a space of my own, one that was crafted to my needs, and one that I could look upon, years down the line, as a testament to my perseverance.
 

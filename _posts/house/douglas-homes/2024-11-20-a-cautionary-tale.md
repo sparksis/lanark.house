@@ -5,7 +5,7 @@ date: 2024-11-20 17:55:00 -0700
 tags: [douglas-homes, home-buying, contracts, transparency, lessons-learned, dispute]
 ---
 
-Hi, I’m Colton English—a single homeowner and versatile software developer who’s been through the wringer with Douglas Homes and their salesperson, Trish Braun. If you’re a potential new home buyer researching builders, I want to share my experience with you. It’s personal, frustrating, and, frankly, a cautionary tale about what can go wrong when you don’t get the basics right.
+I want to tell you about my experience with Douglas Homes and their salesperson, Trish Braun. It’s a personal story, and it’s a cautionary tale. It’s personal, frustrating, and, frankly, a cautionary tale about what can go wrong when you don’t get the basics right.
 
 **The Beginning: Red Flags I Ignored**
 

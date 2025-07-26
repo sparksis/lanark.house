@@ -11,7 +11,7 @@ However, in every chaotic journey, there comes a point where the storm subsides 
 
 I confess that our initial choice of Sterling Homes was purely circumstantial. The couple who lived next door to our rented apartment had just bought a house from this little-known builder. Their commendations, along with the convenience Sterling offered in terms of location, made us consider this option. Thus began our tryst with Sterling Homes, a seemingly ordinary builder who would eventually restore our faith in the home-buying process.
 
-The Sterling Homes team was a refreshing change from past ethereal promises we'd encountered. From the outset, they presented a collaborative and client-focused approach. They took the time to understand our family, our needs, and our vision, blending their professional expertise with our personal inclinations to create a desirous end product.
+The Sterling Homes team was a refreshing change. From the outset, they presented a collaborative and client-focused approach. They took the time to understand my needs and my vision, blending their professional expertise with my personal inclinations to create a desirable end product.
 
 However, it's important to note that the process was not void of hiccups. One memorable incident that stands out involved the blueprint approval process. We had initially envisioned an extra, rather peculiar, storage space on the ground floor, something Sterling's design team was skeptical about. Although we initially felt disregarded, we realized later that their resistance was based not on negation but on a keen eye towards aesthetics and functionality. They offered us an alternative that better fitted the overall design structure of the house while taking care of our storage woes.
 

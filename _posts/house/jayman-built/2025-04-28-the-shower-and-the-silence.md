@@ -5,7 +5,7 @@ date: 2025-04-28 15:29:08 -0600
 tags: [jayman-built, home-buying, contracts, transparency, lessons-learned, dispute]
 ---
 
-Once upon a time, my partner and I embarked on what we believed would be an exciting and fulfilling journey: building our dream home. We chose Jayman Built, a well-known builder whose glossy brochures and polished marketing promised quality, integrity, and attention to detail. Among the many features that caught our eye, one stood out—a spacious, luxurious ensuite shower that symbolized a personal sanctuary within our future home at 71 Legacy Reach Court SE.
+My experience with Jayman Built was a lesson in the importance of the little things. It was a journey that started with excitement and ended in disappointment, and it all came down to a shower. We chose Jayman Built, a well-known builder whose glossy brochures and polished marketing promised quality, integrity, and attention to detail. Among the many features that caught our eye, one stood out—a spacious, luxurious ensuite shower that symbolized a personal sanctuary within our future home at 71 Legacy Reach Court SE.
 
 At first, everything seemed promising. Early conversations with the sales team were positive, and the purchase agreement arrived in March 2025. The ensuite shower was described in their style guide as a curbless, tiled, recessed shower with an 80-inch height, 10-millimeter thick glass, and a sleek chrome frame. This was not just a shower; it was a statement of quality and luxury that we were eager to have in our home.
 

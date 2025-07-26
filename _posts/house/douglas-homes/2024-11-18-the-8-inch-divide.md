@@ -5,7 +5,7 @@ date: 2024-11-18 14:41:00 -0700
 tags: [douglas-homes, home-buying, plot-plan, dispute, transparency, lessons-learned]
 ---
 
-Buying a home is often painted as one of life’s most exciting milestones—a blend of hope, dreams, and the promise of a fresh start. When I embarked on this journey with Douglas Homes in November 2024, I was filled with that same optimism. But what unfolded was a cautionary tale about how even the smallest details, when overlooked or mishandled, can unravel everything.
+I've always believed that buying a home should be one of life’s most exciting milestones—a blend of hope, dreams, and the promise of a fresh start. When I embarked on this journey with Douglas Homes in November 2024, I was filled with that same optimism. But what unfolded was a cautionary tale about how even the smallest details, when overlooked or mishandled, can unravel everything.
 
 I still remember the day I put down my deposit. The process began with a sense of promise. My main contact, Trish Braun, exuded confidence, assuring me that the path to my new home would be smooth and straightforward. Her certainty was comforting, and I allowed myself to believe that this was the start of something wonderful.
 
