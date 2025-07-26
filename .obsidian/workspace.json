@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/house/jayman-built/2025-04-28-Jayman-Built-Grievances.md",
+                "file": "_posts/house/douglas-homes/2024-11-10-a-tale-of-red-flags-and-transparency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-28-Jayman-Built-Grievances"
+              "title": "2024-11-10-a-tale-of-red-flags-and-transparency"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/house/jayman-built/2025-04-28-Jayman-Built-Grievances.md",
+                "file": "_posts/house/douglas-homes/2024-11-10-a-tale-of-red-flags-and-transparency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-04-28-Jayman-Built-Grievances"
+              "title": "Backlinks for 2024-11-10-a-tale-of-red-flags-and-transparency"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/house/jayman-built/2025-04-28-Jayman-Built-Grievances.md",
+                "file": "_posts/house/douglas-homes/2024-11-10-a-tale-of-red-flags-and-transparency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-04-28-Jayman-Built-Grievances"
+              "title": "Outgoing links from 2024-11-10-a-tale-of-red-flags-and-transparency"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/house/jayman-built/2025-04-28-Jayman-Built-Grievances.md",
+                "file": "_posts/house/douglas-homes/2024-11-10-a-tale-of-red-flags-and-transparency.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-04-28-Jayman-Built-Grievances"
+              "title": "Outline of 2024-11-10-a-tale-of-red-flags-and-transparency"
             }
           }
         ]
@@ -168,8 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bac7ba6626b0bc3a",
+  "active": "2eeb73382f4f23ae",
   "lastOpenFiles": [
+    "_posts/house/douglas-homes/2024-11-20-a-cautionary-tale.md",
+    "_posts/house/douglas-homes/2024-11-18-the-8-inch-divide.md",
+    "_posts/house/douglas-homes/2024-11-10-a-tale-of-red-flags-and-transparency.md",
+    "_drafts/house/jayman-built/2025-04-28-Jayman-Built-Grievances.md",
+    "_drafts/house/jayman-built/jayman-built-dispute-email-01.md",
     "_uploads/30-Year exchange - Friday at 8-38 PM.txt",
     "_posts/house/sterling-homes/2025-07-12-warranty-and-repair-review.md",
     "_posts/house/sterling-homes/2025-06-20-unfiltered-feedback.md",
@@ -178,9 +183,6 @@
     "_posts/house/sterling-homes/2025-05-03-a-new-beginning.md",
     "_posts/house/jayman-built/2025-04-28-the-shower-and-the-silence.md",
     "_posts/house/jayman-built/2025-03-04-a-tale-of-two-contracts.md",
-    "_posts/house/douglas-homes/2024-11-18-the-8-inch-divide.md",
-    "_posts/house/douglas-homes/2024-11-10-a-tale-of-red-flags-and-transparency.md",
-    "_posts/house/douglas-homes/2024-11-20-a-cautionary-tale.md",
     "_posts/house/2024-11-01-introduction.md",
     "_posts/house/2025-07-26-introduction.md",
     "_posts/house/2025-07-26-conclusion.md",
@@ -195,7 +197,6 @@
     "_posts/house/jayman-built/2025-07-26-a-tale-of-two-contracts.md",
     "_posts/house/douglas-homes/2025-07-26-the-8-inch-divide.md",
     "_posts/house/douglas-homes/2025-07-26-a-tale-of-red-flags-and-transparency.md",
-    "_posts/house/douglas-homes/2025-07-26-a-cautionary-tale.md",
     "sitemap.txt",
     "_posts/house/sterling-homes",
     "_posts/house/jayman-built",
@@ -214,7 +215,6 @@
     "_uploads/photos/home-purchase/PXL_20250527_003335747.RAW-01.COVER.jpg",
     "_uploads/photos/home-purchase/PXL_20250527_002718497.TS.mp4",
     "_uploads/photos/home-purchase/PXL_20250503_211657976.RAW.LS.mp4",
-    "_uploads/photos/home-purchase/PXL_20250405_152717982.RAW.LS.mp4",
-    "_uploads/photos/home-purchase/PXL_20250309_195622009.RAW.LS.mp4"
+    "_uploads/photos/home-purchase/PXL_20250405_152717982.RAW.LS.mp4"
   ]
 }

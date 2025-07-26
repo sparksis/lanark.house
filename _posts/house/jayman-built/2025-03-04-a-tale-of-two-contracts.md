@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "A Tale of Two Contracts: Lessons from Buying a Jayman Built Home"
+title: "Jayman Built Calgary Review: A Tale of Two Contracts"
+description: "A personal review of my experience with Jayman Built in Calgary. This post details the dangers of relying on verbal agreements and the importance of a clear, comprehensive, and accurate written contract when dealing with a new home builder."
 date: 2025-03-04 12:00:00 -0700
-tags: [jayman-built, home-buying, contracts, transparency, lessons-learned]
+tags: [jayman-built-calgary, jayman-built-reviews, new-home-builder-calgary, home-builder-complaints, new-home-warranty-alberta, avid-ratings, trustedpros]
 ---
 
-When I first embarked on the journey of buying a new home, I was fresh-faced, filled with excitement, and brimming with trust for my chosen home builders, Jayman Built. I hate to admit it, but I was blinded by my naivety. See, I had based my decision to use this company primarily on enthusiastic quips gleaned from casual conversations and verbal assurances that were nothing more than air packaged in appealing words. This tale is one of great adventure, with tribulations and life-altering lessons that taught me the importance and absolute necessity of a clear, comprehensive, and accurate written contract.
+My second attempt at buying a new home was with Jayman Built, a well-known Calgary new home builder, and it was a lesson in the importance of getting everything in writing. I was full of excitement and trust, but I was also naive. I made the mistake of relying on verbal assurances, and it's a mistake I hope you can avoid.
 
 This story is about the gap between what was said and what was written. I remember walking into their offices, heart pounding with excitement, my mind filled with all the plans I had for my new home. A friendly representative, with a bright smile and an aura of experience, greeted me and we began the thrilling journey of home-buying. We shared dreams, hopes, and in their words, promises – promises that would soon become the bane of my journey.
 

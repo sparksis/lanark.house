@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "My Cautionary Tale with Douglas Homes and Trish Braun: Why You Should Think Twice Before Buying"
+title: "Douglas Homes Complaint: A Cautionary Tale for Calgary Home Buyers"
+description: "My personal experience with Douglas Homes and their salesperson, Trish Braun. This review details the issues I faced, from contract problems to a lack of professionalism, and serves as a warning to anyone considering building with this company."
 date: 2024-11-20 17:55:00 -0700
-tags: [douglas-homes, home-buying, contracts, transparency, lessons-learned, dispute]
+tags: [douglas-homes-calgary, douglas-homes-reviews, new-home-builder-calgary, home-builder-complaints, new-home-warranty-alberta, trish-braun]
 ---
 
-I want to tell you about my experience with Douglas Homes and their salesperson, Trish Braun. It’s a personal story, and it’s a cautionary tale. It’s personal, frustrating, and, frankly, a cautionary tale about what can go wrong when you don’t get the basics right.
+I want to tell you about my experience with Douglas Homes, a Calgary new home builder, and their salesperson, Trish Braun. It’s a personal story, and it’s a cautionary tale. It’s personal, frustrating, and, frankly, a cautionary tale about what can go wrong when you don’t get the basics right.
 
 **The Beginning: Red Flags I Ignored**
 

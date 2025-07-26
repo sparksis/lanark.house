@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "The 8-Inch Divide: A Cautionary Tale of Broken Trust and Lost Opportunity with Douglas Homes"
+title: "Douglas Homes Review: The 8-Inch Divide That Ended My Home Purchase"
+description: "A detailed account of my experience with Douglas Homes in Calgary, focusing on a plot plan dispute that led to the cancellation of my contract. A must-read for anyone considering building with Douglas Homes."
 date: 2024-11-18 14:41:00 -0700
-tags: [douglas-homes, home-buying, plot-plan, dispute, transparency, lessons-learned]
+tags: [douglas-homes-calgary, douglas-homes-reviews, new-home-builder-calgary, home-builder-complaints, new-home-warranty-alberta, plot-plan-dispute]
 ---
 
-I've always believed that buying a home should be one of life’s most exciting milestones—a blend of hope, dreams, and the promise of a fresh start. When I embarked on this journey with Douglas Homes in November 2024, I was filled with that same optimism. But what unfolded was a cautionary tale about how even the smallest details, when overlooked or mishandled, can unravel everything.
+I've always believed that buying a home should be one of life’s most exciting milestones—a blend of hope, dreams, and the promise of a fresh start. When I embarked on this journey with Douglas Homes, a popular Calgary new home builder, in November 2024, I was filled with that same optimism. But what unfolded was a cautionary tale about how even the smallest details, when overlooked or mishandled, can unravel everything.
 
 I still remember the day I put down my deposit. The process began with a sense of promise. My main contact, Trish Braun, exuded confidence, assuring me that the path to my new home would be smooth and straightforward. Her certainty was comforting, and I allowed myself to believe that this was the start of something wonderful.
 
@@ -13,7 +14,7 @@ That comfort was short-lived.
 
 The first crack appeared when I requested a sample purchase contract before signing anything. Instead of the transparency I expected, I was met with resistance. It was subtle but unmistakable—a reluctance to share details upfront. For someone like me, who values clear communication and openness in all dealings, this was unsettling. It planted a seed of doubt that would only grow.
 
-In the weeks that followed, I raised questions about various aspects—the warranty terms seemed vague, and the choice of bathtub model felt oddly out of place. Each concern was met with vague answers or deflections. But the issue that ultimately shattered the deal was an 8-inch discrepancy between the architectural guidelines and the as-built plot plan for my property.
+In the weeks that followed, I raised questions about various aspects—the new home warranty Alberta provides seemed vague, and the choice of bathtub model felt oddly out of place. Each concern was met with vague answers or deflections. But the issue that ultimately shattered the deal was an 8-inch discrepancy between the architectural guidelines and the as-built plot plan for my property.
 
 Eight inches. It sounds trivial, almost negligible. But in the world of homebuilding, where precision matters, it was a significant deviation. This wasn’t just a minor oversight; it was a breach of the agreed-upon standards that could affect everything from property boundaries to future modifications.
 

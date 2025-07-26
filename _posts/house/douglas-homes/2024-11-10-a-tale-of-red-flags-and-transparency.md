@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "A Tale of Red Flags and Transparency: My Experience with Douglas Homes"
+title: "Douglas Homes Calgary Review: A Tale of Red Flags and Transparency"
+description: "An honest review of my experience with Douglas Homes in Calgary. Learn about the red flags I encountered and the importance of transparency when choosing a new home builder."
 date: 2024-11-10 12:00:00 -0700
-tags: [douglas-homes, home-buying, contracts, transparency, lessons-learned, red-flags]
+tags: [douglas-homes-calgary, douglas-homes-reviews, new-home-builder-calgary, home-builder-complaints, new-home-warranty-alberta]
 ---
 
-Once upon a time, a tale was etched in the annals of my memories, one that I have chosen to recount with the hope that you, a hopeful new home buyer, do not have to endure what I did during my pursuit of buying a new home. The protagonist of my saga is a homebuilding company going by the name Douglas Homes. Now before I get ahead of myself, allow me to go back to the beginning, to where it all started and how my story morphed into a cautionary tale highlighting the significance of transparency and due diligence in new home buying.
+I want to share a story with you. It's a cautionary tale about my first attempt at buying a new home in Calgary, and it's a story that I hope will help you avoid the same mistakes I made. The builder was Douglas Homes, a well-known name in the Calgary new home builder scene, and my experience with them taught me a lot about the importance of transparency and due diligence.
 
 It was a sunny afternoon when I first stumbled upon the Douglas Homes website. The tagline, "Building Dreams," fascinated me as one who dreamt of a cozy home. Their website was convincingly appealing with its detailed portrayal of beautifully crafted homes. I allowed myself to get swept by the grandeur of it and made an appointment to visit a model home at one of their bustling development sites.
 
