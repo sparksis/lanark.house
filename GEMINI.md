@@ -14,6 +14,14 @@ Professionally, I am a detail-oriented developer with a strong focus on Java, pr
 
 My analytical nature and high value on transparency are evident in my meticulous record-keeping and proactive approach to understanding the intricate processes of real estate. Through this blog, I reflect on the challenges and successes of building a new home, hoping to offer insights for others on a similar path.
 
+## Project Goals and Target Audience
+
+**Overall Goal:** Create 2-3 long-form blog posts for each of the three builders (Douglas Homes, Jayman Built, and Sterling Homes) detailing the user's home-buying experience.
+
+**Target Audience:** Potential new home buyers who are researching builders and looking for authentic, detailed reviews of their experiences.
+
+**Authorial Intent:** The posts should be written in the persona of "Colton English," but revised to be less self-referential and more focused on the universal lessons for a new home buyer. The goal is to provide valuable insights and cautionary tales that can help other buyers navigate the complexities of the home-buying process.
+
 ## Key Technologies
 
 -   **Static Site Generator:** Jekyll
