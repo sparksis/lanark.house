@@ -9,7 +9,7 @@ Welcome! I’m Colton English, software developer by day, and as of late, unexpe
 
 My journey home-building began in earnest a little over a year ago, without a blueprint (pun very much intended). All I knew was that I wanted a space of my own, one that was crafted to my needs, and one that I could look upon, years down the line, as a testament to my perseverance.
 
-In the beginning, my view of home-building was romantic, rosy-cheeked, filled with the delightful prospect of picking out paint colors and kitchen fixtures. However, as I embarked on this path, my rosy vision began to blur, replaced by the gritty reality of managing contracts, budget blowouts, unforeseen delays, and building codes so complex they made my software programming look child’s play.
+In the beginning, my view of home-building was romantic, rosy-cheeked, filled with the delightful prospect of picking out paint colors and kitchen fixtures. However, as I embarked on this path, my rosy vision began to blur, replaced by the gritty reality of managing contracts, budget blowouts, unforeseen delays, and building codes so complex they seemed designed to be confusing.
 
 Yet, I wouldn’t trade this journey for anything. The bumps along the way, as jarring as they were at the time, eventually helped me navigate the new home building terrain with growing confidence. Today, as I sit in my newly built patio, warmed by the morning sun, I see how each hurdle shaped my journey, my understanding of this process, and eventually my home.
 

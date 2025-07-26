@@ -7,7 +7,7 @@ tags: [sterling-homes, home-buying, customer-service, transparency, lessons-lear
 
 Hello Everyone,
 
-Colton English here, your friendly neighbourhood software developer and newly minted homeowner. I recently purchased a Sterling Homes property at 728 Langley Terrace, and I thought I'd share my warranty and repair experience, in hopes it'll be helpful for those of you preparing to venture into home ownership.
+Colton English here, your friendly neighbourhood homeowner. I recently purchased a Sterling Homes property at 728 Langley Terrace, and I thought I'd share my warranty and repair experience, in hopes it'll be helpful for those of you preparing to venture into home ownership.
 
 Working with Sterling Homes has had its share of ups and downs. The initial purchase of the home was fairly smooth and much of this was down to Sterling's excellent communication on everything from mortgage and financing options to concierge and moving services. The provision of possession documents and pre-paint inspection reports demonstrated a level of organization and transparency that instilled confidence.
 

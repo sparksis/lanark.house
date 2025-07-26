@@ -17,7 +17,7 @@ This woman, an architect of indulgent creativity, proposed ideas that were thoug
 
 We live in a society where diversity and inclusivity are emphasized, cherished and promoted. It’s not just about the suggestions, but respect for the person giving it. By shutting her down consistently, Mike missed out on legitimate contributions and good rapport with the team, in my view, dimming the sparks of their enthusiasm.
 
-It wasn't a one-time thing, unfortunately. His cavalier attitude towards accepting diverse viewpoints, as if he wore blinkers, hampered smooth project progression. This resulted in dissent in the team and displeasure on my part. As a man who earns his living by solving complex problems intricately, this fairly simple issue of respect and professionalism hit me.
+It wasn't a one-time thing, unfortunately. His cavalier attitude towards accepting diverse viewpoints, as if he wore blinkers, hampered smooth project progression. This resulted in dissent in the team and displeasure on my part. As someone who values respect and professionalism, this fairly simple issue hit me.
 
 So, there we have it – Mike. A puzzle of a man that depicted a paradoxical blend of inborn craft and flawed social dynamics. By now you can gauge that a recommendation won't be coming from me, yet that doesn't negate his talent in the construction realm. All I hope is that my review serves its purpose in helping my fellow soon-to-be homeowners in our quest for the perfect home. Choose wisely and best of luck, fellow adventurers!
 

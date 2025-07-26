@@ -28,7 +28,7 @@ From unequivocal brackets that give control in programming to having patience wh
 
 Building my Lanark House wasn't just about creating a sanctuary to code and sip coffee. It was about understanding the dynamics of a world outside my comfort zone. It taught me patience, resilience, and fostered meaningful relationships along the way.
 
-To all my readers embarking on this journey, consider these lessons as stepping stones to a smoother home-building experience. There will be challenges, and your house won't be built in a day (or coded in an hour); but trust me, when you finally hold those keys, the sense of accomplishment is beyond any bug-free software.
+To all my readers embarking on this journey, consider these lessons as stepping stones to a smoother home-building experience. There will be challenges, and your house won't be built in a day; but trust me, when you finally hold those keys, the sense of accomplishment is beyond anything.
 
 One final piece of advice from yours truly—home building is not just about bricks and cement; it's about building dreams. And the right builder will ensure that your dreams are interpreted and manifested in the form of your perfect home.
 
