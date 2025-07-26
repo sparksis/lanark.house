@@ -22,6 +22,10 @@ My analytical nature and high value on transparency are evident in my meticulous
 
 **Authorial Intent:** The posts should be written in the persona of "Colton English," but revised to be less self-referential and more focused on the universal lessons for a new home buyer. The goal is to provide valuable insights and cautionary tales that can help other buyers navigate the complexities of the home-buying process.
 
+## SEO and Keyword Strategy
+
+Blog post titles, descriptions, and tags have been updated to improve search engine optimization. The strategy focuses on incorporating relevant keywords such as "Douglas Homes Calgary review," "Jayman Built Calgary review," "Sterling Homes Calgary review," "new home builder complaints," and "new home warranty Alberta" to attract potential home buyers searching for information on these builders and related topics.
+
 ## Key Technologies
 
 -   **Static Site Generator:** Jekyll
