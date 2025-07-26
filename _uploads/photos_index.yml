@@ -1,0 +1,61 @@
+photos:
+  - file: _uploads/photos/home-purchase/PXL_20241102_165512400.RAW-01.COVER.jpg
+    builder: Douglas Homes
+    date: 2024-11-02
+    tags: [RAW, COVER]
+    description: Photo from the Douglas Homes purchase attempt.
+  - file: _uploads/photos/home-purchase/PXL_20241108_231552423.RAW-01.COVER.jpg
+    builder: Douglas Homes
+    date: 2024-11-08
+    tags: [RAW, COVER]
+    description: Photo from the Douglas Homes purchase attempt.
+  - file: _uploads/photos/home-purchase/PXL_20241112_195759939.RAW-01.COVER.jpg
+    builder: Douglas Homes
+    date: 2024-11-12
+    tags: [RAW, COVER]
+    description: Photo from the Douglas Homes purchase attempt.
+  - file: _uploads/photos/home-purchase/PXL_20250309_195608567.RAW-01.COVER.jpg
+    builder: Jayman Built
+    date: 2025-03-09
+    tags: [RAW, COVER]
+    description: Photo from the Jayman Built purchase attempt in Legacy.
+  - file: _uploads/photos/home-purchase/PXL_20250405_152229509.RAW-01.COVER.jpg
+    builder: Jayman Built
+    date: 2025-04-05
+    tags: [RAW, COVER]
+    description: Photo from the Jayman Built purchase attempt in Legacy.
+  - file: _uploads/photos/home-purchase/PXL_20250409_154340019.RAW-01.COVER.jpg
+    builder: Jayman Built
+    date: 2025-04-09
+    tags: [RAW, COVER]
+    description: Photo from the Jayman Built purchase attempt in Legacy.
+  - file: _uploads/photos/home-purchase/PXL_20250503_211656585.RAW-01.COVER.jpg
+    builder: Sterling Homes
+    date: 2025-05-03
+    tags: [RAW, COVER]
+    description: Photo from the Sterling Homes purchase of 728 Langley Terrace.
+  - file: _uploads/photos/home-purchase/PXL_20250506_220755452.RAW-01.COVER.jpg
+    builder: Sterling Homes
+    date: 2025-05-06
+    tags: [RAW, COVER]
+    description: Photo from the Sterling Homes purchase of 728 Langley Terrace.
+  - file: _uploads/photos/home-purchase/PXL_20250526_160116042.RAW-01.COVER.jpg
+    builder: Sterling Homes
+    date: 2025-05-26
+    tags: [RAW, COVER]
+    description: Photo from the Sterling Homes purchase of 728 Langley Terrace.
+  - file: _uploads/photos/home-purchase/PXL_20250527_001138016.RAW-01.COVER.jpg
+    builder: Sterling Homes
+    date: 2025-05-27
+    tags: [RAW, COVER]
+    description: Photo from the Sterling Homes purchase of 728 Langley Terrace.
+  - file: _uploads/photos/home-purchase/PXL_20250616_043250225.NIGHT.RAW-01.COVER.jpg
+    builder: Sterling Homes
+    date: 2025-06-16
+    tags: [NIGHT, RAW, COVER]
+    description: Photo from the Sterling Homes purchase of 728 Langley Terrace.
+  - file: _uploads/photos/home-purchase/PXL_20250617_020807580.RAW-01.COVER.jpg
+    builder: Sterling Homes
+    date: 2025-06-17
+    tags: [RAW, COVER]
+    description: Photo from the Sterling Homes purchase of 728 Langley Terrace.
