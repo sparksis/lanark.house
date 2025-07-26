@@ -30,6 +30,6 @@ Building my Lanark House wasn't just about creating a sanctuary to code and sip 
 
 To all my readers embarking on this journey, consider these lessons as stepping stones to a smoother home-building experience. There will be challenges, and your house won't be built in a day; but trust me, when you finally hold those keys, the sense of accomplishment is beyond anything.
 
-One final piece of advice from yours truly—home building is not just about bricks and cement; it's about building dreams. And the right builder will ensure that your dreams are interpreted and manifested in the form of your perfect home.
+This journey has been about more than just buying a house; it’s been about understanding the value of a 30-year commitment. It’s about the exchange of time for security, and the importance of finding a builder who understands and respects that. My hope is that by sharing my story, I can help you find a builder who will honor your commitment and help you build a home that is truly worth the exchange.
 
 As they say, the two most joyful moments with a home are when you buy it and when you sell it. I hope my series has made the first one easier for you. As for the second one… well, that’s a story to tell another time! Until then, stay inspired, and remember, home is where the heart is, and in my case, a freshly brewed pot of coffee too!

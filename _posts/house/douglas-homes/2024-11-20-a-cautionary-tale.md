@@ -25,7 +25,7 @@ The last call I had with Douglas Homes was the most telling. When I mentioned re
 
 **Why I’m Sharing This**
 
-I’m sharing this because buying a home is one of the biggest investments you’ll make. You deserve transparency, respect, and professionalism. My experience with Douglas Homes and Trish Braun was the opposite. If you’re considering them, please think twice. Ask for everything in writing, demand clarity, and don’t settle for excuses.
+When you’re trading 30 years of your life for a home, you expect a certain level of respect and professionalism. You expect to feel like a valued partner in the process, not a nuisance. My experience with Douglas Homes, and particularly with Trish Braun, was the complete opposite. It felt like dealing with someone who was simply entitled to my money, without any regard for the significance of the commitment I was making.
 
 **Final Thoughts**
 
