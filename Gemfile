@@ -17,7 +17,6 @@ gem "jekyll", "~> 4.3.4"
 group :jekyll_plugins do
   gem "jekyll-remote-theme"
   gem "jekyll-sitemap"
-  gem "jekyll-sass-converter", "~> 1.5.0"
 
   gem "jekyll-feed"
   gem "jekyll-seo-tag" 
