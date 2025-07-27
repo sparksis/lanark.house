@@ -37,7 +37,7 @@ jobs:
             echo "No PR found for $BRANCH_NAME. Creating one now."
             # Determine the base branch (default branch of the repository)
             BASE_BRANCH=$(gh repo view --json defaultBranchRef --jq .defaultBranchRef.name)
-            gh pr create --draft --base "$BASE_BRANCH" --head "$BRANCH_NAME" --title "PR for $BRANCH_NAME" --body "Automated PR created for changes in $BRANCH_NAME" --label 'google-labs-jules[bot]'
+            gh pr create --base "$BASE_BRANCH" --head "$BRANCH_NAME" --title "PR for $BRANCH_NAME" --body "Automated PR created for changes in $BRANCH_NAME" --label 'google-labs-jules[bot]'
           else
             echo "PR already exists for $BRANCH_NAME. Skipping creation."
           fi
