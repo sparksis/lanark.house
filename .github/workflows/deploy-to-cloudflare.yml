@@ -24,4 +24,4 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: 62758afcaaf5e929beeac70e72312bc6
           wranglerVersion: "3"
-          command: pages deploy _site --project-name introspect --commit-dirty=true
+          command: pages deploy _site --project-name lanark-house --commit-dirty=true
