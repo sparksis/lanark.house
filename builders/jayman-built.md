@@ -22,3 +22,11 @@ The core of the issue was that a premium, curbless, tiled shower, which we were 
 Communication with the sales team, including Brittney Mack and sales manager Michael Klassen, was frustrating and unproductive. Our attempts to escalate the issue were met with silence, and the dispute was never resolved. In the end, Jayman Built chose to terminate the purchase agreement rather than address our concerns.
 
 This experience highlighted the dangers of relying on verbal agreements and the importance of ensuring that every single detail is clearly and accurately documented in the final contract.
+
+### Key Events of the Experience
+
+*   **Property:** 71 Legacy Reach Court SE
+*   **Issues:** The core of this dispute was a contract discrepancy.
+    *   The purchase agreement, received around March 4, 2025, did not include the larger, upgraded ensuite shower that had been verbally discussed and agreed upon.
+    *   Attempts to resolve this discrepancy and get the desired feature formally added to the contract were unsuccessful, leading to the second collapsed deal.
+    *   Meticulous records of this attempt are stored in the “Legacy House (archived)” folder on Google Drive.

@@ -24,3 +24,12 @@ From the outset, there was a reluctance to provide a sample contract for review 
 The deal-breaking issue was an 8-inch discrepancy in the plot plan. The builder was unwilling to seek a formal waiver from the developer to rectify this, which ultimately led to the collapse of the purchase agreement. To make matters worse, my legal name was incorrect on the contract, and the process to get it corrected was painstakingly slow.
 
 Overall, the experience was deeply frustrating and left me feeling devalued as a customer. It taught me the importance of due diligence and of demanding transparency from a builder.
+
+### Key Events of the Experience
+
+*   **Key Contact:** Trish Braun
+*   **Issues:** This experience was defined by a lack of transparency and communication challenges.
+    *   The builder’s representative refused to provide a sample contract for review prior to signing.
+    *   There were misrepresentations regarding the HOA rules and restrictive covenants.
+    *   A major conflict arose over an 8-inch plot plan discrepancy between the architectural guidelines and the as-built property.
+    *   The builder was unwilling to seek a formal waiver for this discrepancy from the developer (Melcor) or the architectural committee (E2 and Associates), leading to the deal’s collapse in November 2024.
