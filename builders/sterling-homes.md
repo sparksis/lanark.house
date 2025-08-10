@@ -2,6 +2,11 @@
 layout: builder
 title: "Sterling Homes Review"
 builder: "sterling-homes"
+address:
+  streetAddress: "37 Quarry Park Blvd SE"
+  addressLocality: "Calgary"
+  addressRegion: "AB"
+  postalCode: "T2C 5H9"
 pros:
   - "Collaborative and client-focused sales process."
   - "Transparent and organized with documents."

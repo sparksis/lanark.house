@@ -2,6 +2,11 @@
 layout: builder
 title: "Douglas Homes Review"
 builder: "douglas-homes"
+address:
+  streetAddress: "#12B, 4101 19 Street NE"
+  addressLocality: "Calgary"
+  addressRegion: "AB"
+  postalCode: "T2E 6X8"
 pros:
   - "Initial online presentation and model homes were appealing."
 cons:

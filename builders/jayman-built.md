@@ -2,6 +2,11 @@
 layout: builder
 title: "Jayman Built Review"
 builder: "jayman-built"
+address:
+  streetAddress: "200, 3132 - 118 Ave. S.E."
+  addressLocality: "Calgary"
+  addressRegion: "AB"
+  postalCode: "T2Z 3X1"
 pros:
   - "Initial marketing materials and brochures were appealing."
 cons:
