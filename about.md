@@ -1,7 +1,7 @@
 ---
 title: About
-permalink: "/"
 layout: page
+permalink: /about/
 ---
 
 # [lanark.house](https://lanark.house)
