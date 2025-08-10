@@ -1,0 +1,60 @@
+# Lanark.house Sitemap and Content Strategy
+
+## Blog Introduction
+
+*   **Title:** My Journey Home: A Guide to Navigating the New Home Build Process
+*   **File:** _drafts/introduction.md
+*   **Thesis:** This blog chronicles my personal journey of building a new home, sharing the lessons I've learned along the way to help you navigate the complexities of the process with confidence.
+
+## Part 1: The First Attempt - Douglas Homes
+
+Thesis: Douglas homes operates in an ethical grey area.  They do not directly employ the sales staff (Trish) and instead use shell companies to _seemingly_ (ensure I do not commit libel) allow the sales people to lie.  Steer, the buyer away from them.
+
+* Post 0: a hit article about trish and douglas homes.  emphasizing her inability to do the bare minimum such as getting my legal name corrected on a contact over  period of time.  INclude details of my last call with Douglas when they indicated _i shouldn't have any need to record and should trust them_
+    *   **File:** _drafts/house/douglas-homes/a-cautionary-tale.md
+*   **Post 1: A Tale of Red Flags and Transparency**
+    *   **File:** _drafts/house/douglas-homes/a-tale-of-red-flags-and-transparency.md
+    *   **Thesis:** This post will explore the early warning signs I encountered during my first attempt at buying a new home, emphasizing the importance of transparency and due diligence from the very beginning.
+*   **Post 2: The 8-Inch Divide**
+    *   **File:** _drafts/house/douglas-homes/the-8-inch-divide.md
+    *   **Thesis:** This post will detail how a seemingly minor discrepancy in the plot plan became a major roadblock, highlighting the critical importance of verifying every detail of your purchase agreement.
+
+## Part 2: The Second Attempt - Jayman Built
+
+thesis: buyer be ware,  be assertive that in my specific case they were unethical in advertising upgrades that were not possible.
+
+*   **Post 1: A Tale of Two Contracts**
+    *   **File:** _drafts/house/jayman-built/a-tale-of-two-contracts.md
+    *   **Thesis:** This post will examine the dangers of relying on verbal agreements and the absolute necessity of a clear, comprehensive, and accurate written contract.
+*   **Post 2: The Shower and the Silence**
+    *   **File:** _drafts/house/jayman-built/the-shower-and-the-silence.md
+    *   **Thesis:** This post will tell the story of how a dispute over a small but significant feature—an ensuite shower—revealed the importance of a builder who listens to their clients and communicates effectively.
+    * use the _drafts/house/jayman-built/2025-04-28-Jayman-Built-Grievances.md post for a reference on what I'd like to say but adapt for the audience and consistency with the site.
+
+## Part 3: The Third Time's the Charm - Sterling Homes
+
+thesis: be fair, emphasizing pros and cons.
+
+
+*   **Post 1: A New Beginning**
+    *   **File:** _drafts/house/sterling-homes/a-new-beginning.md
+    *   **Thesis:** This post will showcase how a positive and collaborative relationship with a builder can make all the difference, turning a stressful process into an exciting and rewarding one.
+*   **Post 2: The Unveiled Reality of Homeownership**
+    *   **File:** _drafts/house/sterling-homes/the-unveiled-reality-of-homeownership.md
+    *   **Thesis:** This post will explore the post-possession phase of homeownership, detailing the challenges and lessons learned in the first year of owning a new home.
+*   Post 3: something about mike (Working title)
+    *   **File:** _drafts/house/sterling-homes/something-about-mike.md
+    * Thesis: emphasizing that mike was a tollerable human and likely a good drinking buddy but didn't suit my prefernce (shutting down his colleague (who happened to be a woman)), dismissive
+* post 4: initial feedback about purchase (to sterling)
+    *   **File:** _drafts/house/sterling-homes/unfiltered-feedback.md
+      context file: _uploads/sterling-feedback.conext.md
+* post 5: current status and a review of warranty services
+    *   **File:** _drafts/house/sterling-homes/warranty-and-repair-review.md
+    * thesis: it's not all roses, a fair and even review with detailed documentation about the current state of my home.
+
+
+## Blog Conclusion
+
+*   **Title:** Lessons from the Lanark House: A Final Reflection
+*   **File:** _drafts/conclusion.md
+*   **Thesis:** This final post will summarize the key takeaways from my home-buying journey, offering a comprehensive guide to help you make informed decisions and find the right builder for your new home.

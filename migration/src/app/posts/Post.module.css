@@ -1,0 +1,17 @@
+.article {
+  margin-bottom: 2rem;
+}
+
+.title {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.date {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.content {
+  line-height: 1.6;
+}
