@@ -5,7 +5,8 @@ date: 2025-07-25 15:00:00 -0700
 tags: [douglas-homes, call-transcript, plot-plan]
 ---
 
-TimeDurationSpeakerPhrase  
+| Time | Duration | Speaker | Phrase |
+|---|---|---|---|
 16:42:090 s2This is trash.  
 16:42:100 s2Hello.  
 16:42:111 s2This is trash.  
