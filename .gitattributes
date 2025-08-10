@@ -2,3 +2,4 @@ _uploads/158004[[:space:]]-[[:space:]]Possession[[:space:]]-[[:space:]]728[[:spa
 _uploads/158004[[:space:]]-[[:space:]]Certificate[[:space:]]of[[:space:]]Possession[[:space:]]-[[:space:]]728[[:space:]]Langley[[:space:]]Terrace.pdf filter=lfs diff=lfs merge=lfs -text
 _uploads/photos/** filter=lfs diff=lfs merge=lfs -text
 _uploads/Roof[[:space:]]-[[:space:]]Monday[[:space:]]at[[:space:]]2-19[[:space:]]PM.txt filter=lfs diff=lfs merge=lfs -text
+_uploads/*.m4a filter=lfs diff=lfs merge=lfs -text
