@@ -1,0 +1,12 @@
+<nav class="nav">
+  <ul class="list list--nav">
+    <li class="item item--nav{% if page.url == '/' %} item--current{% endif %}"><a href="{{ '/' | relative_url }}">Home</a></li>
+    <li class="item item--nav{% if page.url == '/about/' %} item--current{% endif %}"><a href="{{ '/about/' | relative_url }}">About</a></li>
+    {% assign builder_pages = site.pages | where_exp: "page", "page.path contains 'builders/'" | sort: "rating" %}
+    {% for item in builder_pages %}
+      <li class="item item--nav{% if item.url == page.url %} item--current{% endif %}">
+        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>

@@ -1,0 +1,115 @@
+---
+layout: default
+---
+
+<head>
+  <style>
+    .review-summary {
+      border: 1px solid #ddd;
+      padding: 20px;
+      margin-bottom: 20px;
+      background-color: #f9f9f9;
+      border-radius: 5px;
+    }
+    .review-summary h2 {
+      margin-top: 0;
+    }
+    .review-summary .pros-cons {
+      display: flex;
+      gap: 20px;
+    }
+    .review-summary .pros, .review-summary .cons {
+      flex: 1;
+    }
+    .review-summary ul {
+      padding-left: 20px;
+    }
+  </style>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Review",
+    "itemReviewed": {
+      "@type": "HomeBuilder",
+      "name": "{{ page.title }}",
+      "url": "{{ page.url | absolute_url }}",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "{{ page.address.streetAddress }}",
+        "addressLocality": "{{ page.address.addressLocality }}",
+        "addressRegion": "{{ page.address.addressRegion }}",
+        "postalCode": "{{ page.address.postalCode }}"
+      }
+    },
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "{{ page.rating }}",
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Colton English"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "lanark.house",
+      "url": "{{ site.url }}"
+    }
+  }
+  </script>
+</head>
+
+{% include site-header.html %}
+
+<main class="main  container">
+
+  <article class="article  article--page  content  typeset">
+
+    <h1>{{ page.title }}</h1>
+
+    <div class="review-summary">
+      <h2>Rating: {{ page.rating }} out of 5 stars</h2>
+      <p>
+        <strong>Address:</strong><br>
+        {{ page.address.streetAddress }}<br>
+        {{ page.address.addressLocality }}, {{ page.address.addressRegion }} {{ page.address.postalCode }}
+      </p>
+      <div class="pros-cons">
+        <div class="pros">
+          <h3>Pros</h3>
+          <ul>
+            {% for pro in page.pros %}
+            <li>{{ pro }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="cons">
+          <h3>Cons</h3>
+          <ul>
+            {% for con in page.cons %}
+            <li>{{ con }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    {{ content }}
+
+    <h2>Posts</h2>
+    <ul>
+      {% for post in site.posts reversed %}
+        {% if post.path contains page.builder %}
+          <li>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+
+  </article>
+
+</main>
+
+{% include site-footer.html %}

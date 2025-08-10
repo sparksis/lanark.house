@@ -1,0 +1,22 @@
+---
+layout: page
+title: Home
+permalink: /
+---
+
+<h1>Builder Reviews</h1>
+
+<p>This site documents my journey of buying a new home in Calgary. I had experiences with three different builders, which are summarized below. For more details, please visit the individual review pages.</p>
+
+<hr>
+
+{% assign builder_pages = site.pages | where_exp: "page", "page.path contains 'builders/'" | sort: "rating" %}
+{% for builder_page in builder_pages %}
+  <div class="builder-summary">
+    <h2><a href="{{ builder_page.url | relative_url }}">{{ builder_page.title }}</a></h2>
+    <p><strong>Rating: {{ builder_page.rating }} out of 5 stars</strong></p>
+    <p>{{ builder_page.content | strip_html | truncatewords: 50 }}</p>
+    <p><a href="{{ builder_page.url | relative_url }}">Read the full review...</a></p>
+  </div>
+  <hr>
+{% endfor %}
