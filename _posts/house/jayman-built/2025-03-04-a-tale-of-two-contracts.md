@@ -3,6 +3,7 @@ layout: post
 title: "Jayman Built Calgary Review: A Tale of Two Contracts"
 description: "A personal review of my experience with Jayman Built in Calgary. This post details the dangers of relying on verbal agreements and the importance of a clear, comprehensive, and accurate written contract when dealing with a new home builder."
 date: 2025-03-04 12:00:00 -0700
+categories: [house, jayman-built]
 tags: [jayman-built-calgary, jayman-built-reviews, new-home-builder-calgary, home-builder-complaints, new-home-warranty-alberta, avid-ratings, trustedpros]
 ---
 

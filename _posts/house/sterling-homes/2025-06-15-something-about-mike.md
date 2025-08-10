@@ -2,6 +2,7 @@
 layout: post
 title: "Something About Mike: A Candid Review"
 date: 2025-06-15 01:00:00 -06:00
+categories: [house, sterling-homes]
 tags: [sterling-homes, home-buying, customer-service, transparency, lessons-learned]
 ---
 

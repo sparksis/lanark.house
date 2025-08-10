@@ -3,6 +3,7 @@ layout: post
 title: "Douglas Homes Complaint: A Cautionary Tale for Calgary Home Buyers"
 description: "My personal experience with Douglas Homes and their salesperson, Trish Braun. This review details the issues I faced, from contract problems to a lack of professionalism, and serves as a warning to anyone considering building with this company."
 date: 2024-11-20 17:55:00 -0700
+categories: [house, douglas-homes]
 tags: [douglas-homes-calgary, douglas-homes-reviews, new-home-builder-calgary, home-builder-complaints, new-home-warranty-alberta, trish-braun]
 ---
 

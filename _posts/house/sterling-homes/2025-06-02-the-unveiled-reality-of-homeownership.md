@@ -3,6 +3,7 @@ layout: post
 title: "Sterling Homes Calgary Review: The Unveiled Reality of Homeownership"
 description: "A detailed account of my post-possession experience with Sterling Homes in Calgary. This review covers the challenges I faced with warranty, repairs, and communication, and offers valuable lessons for new home buyers."
 date: 2025-06-02 01:00:00 -06:00
+categories: [house, sterling-homes]
 tags: [sterling-homes-calgary, sterling-homes-reviews, new-home-builder-calgary, home-builder-complaints, new-home-warranty-alberta, virtuo-app]
 ---
 
