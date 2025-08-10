@@ -1,0 +1,71 @@
+<!-- This is a self-contained disclaimer widget for Jekyll static sites. -->
+<!-- It provides a legal disclaimer in a modal dialog, citing Canadian law. -->
+<!-- This version opens automatically on first entry and uses localStorage to prevent it from re-appearing -->
+<!-- until the widget's publish date changes or the user clears their browser storage. -->
+
+<!-- Tailwind CSS is used for styling. This is a single-file CDN for simplicity. -->
+<script src="https://cdn.tailwindcss.com"></script>
+
+<!-- The modal container. It's a semantic <dialog> element. -->
+<dialog id="disclaimer-modal" class="bg-white p-6 rounded-lg shadow-xl backdrop:bg-black backdrop:opacity-50 max-w-2xl mx-auto my-10 font-sans">
+    <div class="flex flex-col gap-4">
+        <h2 class="text-2xl font-bold text-gray-800">Disclaimer of Liability</h2>
+        <p class="text-gray-600">
+            The content on this website, including all reviews and critiques, represents my personal opinion and is intended for informational and review purposes only.
+            My statements are based on my personal experiences and observations, and are not intended as statements of fact but as an honest expression of my viewpoint.
+        </p>
+        <p class="text-gray-600">
+            This disclaimer is provided in line with the Canadian legal defence of <strong>"fair comment"</strong>, which protects honest expressions of opinion on a matter of public interest.
+            As established in cases like <cite>WIC Radio Ltd v Simpson, 2008 SCC 40</cite>, this defence protects commentary that is based on true facts and is an opinion that a reasonable person could honestly hold.
+            I have made reasonable efforts to ensure the factual basis of my opinions is accurate, and my commentary is a genuinely held belief based on those facts.
+        </p>
+
+        <!-- Button to close the modal. This also stores the timestamp. -->
+        <button id="disclaimer-accept-btn" class="mt-4 px-4 py-2 bg-blue-600 text-white font-semibold rounded-md shadow-md hover:bg-blue-700 transition duration-300">
+            I Understand
+        </button>
+    </div>
+</dialog>
+
+<!-- Fallback for browsers with JavaScript disabled. -->
+<noscript>
+    <div role="alert" class="fixed bottom-4 left-4 p-4 bg-yellow-100 border-l-4 border-yellow-500 text-yellow-700">
+        <p class="font-bold">Disclaimer Notice</p>
+        <p>This site contains opinions. For a full legal disclaimer, please visit our dedicated disclaimer page.</p>
+    </div>
+</noscript>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        // Define the key for local storage and the last published date of this widget.
+        // This date should be updated whenever you make a change to the disclaimer text
+        // that you want all users to see again. Use the format YYYY-MM-DD.
+        const localStorageKey = 'disclaimer_accepted_timestamp';
+        const lastPublishedDate = '2025-08-09';
+
+        const disclaimerModal = document.getElementById('disclaimer-modal');
+        const acceptButton = document.getElementById('disclaimer-accept-btn');
+
+        // Get the timestamp from local storage.
+        const acceptedTimestamp = localStorage.getItem(localStorageKey);
+
+        // Check if the timestamp exists and if it is more recent than the last publish date.
+        // The Date constructor can parse the ISO 8601 string.
+        const publishedDateMs = new Date(lastPublishedDate).getTime();
+        const acceptedDateMs = acceptedTimestamp ? parseInt(acceptedTimestamp, 10) : 0;
+
+        // If the user has not accepted or their acceptance is older than the last publish date, show the modal.
+        if (!acceptedTimestamp || acceptedDateMs < publishedDateMs) {
+            disclaimerModal.showModal();
+        }
+
+        // Add a click event listener to the "I Understand" button.
+        acceptButton.addEventListener('click', () => {
+            // Save the current timestamp to local storage.
+            // Using Date.now() for a millisecond timestamp.
+            localStorage.setItem(localStorageKey, Date.now().toString());
+            // Close the modal.
+            disclaimerModal.close();
+        });
+    });
+</script>
