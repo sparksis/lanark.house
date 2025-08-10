@@ -3,7 +3,6 @@ layout: post
 title: "Sterling Homes Calgary Review: A New Beginning"
 description: "A personal review of my experience with Sterling Homes in Calgary. This post details the positive and collaborative relationship I had with this new home builder, and how it restored my faith in the home-buying process."
 date: 2025-05-03 01:00:00 -06:00
-categories: [house, sterling-homes]
 tags: [sterling-homes-calgary, sterling-homes-reviews, new-home-builder-calgary, avid-ratings, home-awards, new-home-warranty-alberta]
 ---
 

@@ -31,11 +31,12 @@ layout: default
 
     <h2>Posts</h2>
     <ul>
-      {% assign builder_posts = site.posts | where_exp:"post", "post.categories contains page.builder" %}
-      {% for post in builder_posts reversed %}
-      <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
-      </li>
+      {% for post in site.posts reversed %}
+        {% if post.path contains page.builder %}
+          <li>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+          </li>
+        {% endif %}
       {% endfor %}
     </ul>
 

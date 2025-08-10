@@ -3,7 +3,6 @@ layout: post
 title: "Douglas Homes Calgary Review: A Tale of Red Flags and Transparency"
 description: "An honest review of my experience with Douglas Homes in Calgary. Learn about the red flags I encountered and the importance of transparency when choosing a new home builder."
 date: 2024-11-10 12:00:00 -0700
-categories: [house, douglas-homes]
 tags: [douglas-homes-calgary, douglas-homes-reviews, new-home-builder-calgary, home-builder-complaints, new-home-warranty-alberta]
 ---
 

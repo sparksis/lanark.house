@@ -3,7 +3,6 @@ layout: post
 title: "Douglas Homes Review: The 8-Inch Divide That Ended My Home Purchase"
 description: "A detailed account of my experience with Douglas Homes in Calgary, focusing on a plot plan dispute that led to the cancellation of my contract. A must-read for anyone considering building with Douglas Homes."
 date: 2024-11-18 14:41:00 -0700
-categories: [house, douglas-homes]
 tags: [douglas-homes-calgary, douglas-homes-reviews, new-home-builder-calgary, home-builder-complaints, new-home-warranty-alberta, plot-plan-dispute]
 ---
 
