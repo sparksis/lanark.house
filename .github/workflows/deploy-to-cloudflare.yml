@@ -1,4 +1,4 @@
-name: Deploy Next.js site to Cloudflare Pages
+name: Deploy Jekyll site to Cloudflare Pages
 
 on: [push]
 
@@ -14,9 +14,13 @@ jobs:
     name: Publish to Cloudflare Pages
     steps:
       - uses: actions/checkout@v4
-      - uses: docker://jekyll/jekyll:4.1.0
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          entrypoint: /github/workspace/bin/build.sh
+          ruby-version: 3.1
+          bundler-cache: true
+      - name: Build Jekyll site
+        run: ./bin/build.sh
       - name: Publish to Cloudflare Pages
         id: deploy
         uses: cloudflare/wrangler-action@7a5f8bbdfeedcde38e6777a50fe685f89259d4ca
