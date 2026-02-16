@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: lanark.house
+  description: "lanark.house"
+  annotations:
+    github.com/project-slug: sparksis/lanark.house
+spec:
+  type: service
+  lifecycle: experimental
+  owner: sparksis
