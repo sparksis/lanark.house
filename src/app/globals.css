@@ -1,0 +1,61 @@
+@import url('https://api.fontshare.com/v2/css?f[]=zodiak@400,500,700&f[]=satoshi@300,400,500,700&display=swap');
+@import "tailwindcss";
+
+:root {
+  --color-bg: #111010;
+  --color-surface-card: #201e1d;
+  --color-border: #363230;
+  --color-text: #e6e1d8;
+  --color-text-muted: #918d87;
+  --color-accent: #d4952a;
+  --color-accent-light: #e8b355;
+  --font-display: 'Zodiak', serif;
+  --font-body: 'Satoshi', sans-serif;
+}
+
+[data-theme="light"] {
+  --color-bg: #f7f5f0;
+  --color-surface-card: #ffffff;
+  --color-border: #e0ddd8;
+  --color-text: #1a1816;
+  --color-text-muted: #6b6560;
+  --color-accent: #d4952a;
+  --color-accent-light: #e8b355;
+}
+
+@theme inline {
+  --color-background: var(--color-bg);
+  --color-foreground: var(--color-text);
+  --color-card: var(--color-surface-card);
+  --color-border: var(--color-border);
+  --color-muted: var(--color-text-muted);
+  --color-accent: var(--color-accent);
+  --color-accent-light: var(--color-accent-light);
+  --font-display: var(--font-display);
+  --font-body: var(--font-body);
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-body);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+}
+
+::selection {
+  background: var(--color-accent);
+  color: var(--color-bg);
+}
+
+a {
+  color: var(--color-accent);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+a:hover {
+  color: var(--color-accent-light);
+}
