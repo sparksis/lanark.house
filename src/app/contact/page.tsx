@@ -15,7 +15,7 @@ export default function ContactPage() {
     const data = new FormData(form);
 
     try {
-      const res = await fetch("/contact", {
+      const res = await fetch("/api/contact", {
         method: "POST",
         body: JSON.stringify({
           name: data.get("name"),
