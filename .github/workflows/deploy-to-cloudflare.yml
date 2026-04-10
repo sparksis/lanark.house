@@ -12,7 +12,7 @@ jobs:
       deployments: write
     environment:
       name: cloudflare
-      url: https://perplexity-main-lanark-house.colton-627.workers.dev
+      url: https://lanark-house.colton-627.workers.dev
 
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
@@ -48,10 +48,10 @@ jobs:
           echo "Preview alias: $SLUG"
           echo "Preview URL: https://${SLUG}-lanark-house.colton-627.workers.dev"
 
-      - name: Upload Worker version with preview alias
+      - name: Deploy to Cloudflare Workers
         uses: cloudflare/wrangler-action@da0e0dfe58b7a431659754fdf3f186c529afbe65 # v3.14.1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: 62758afcaaf5e929beeac70e72312bc6
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
-          command: versions upload --preview-alias ${{ steps.branch.outputs.slug }}
+          command: deploy
