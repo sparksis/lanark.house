@@ -2,9 +2,8 @@ export const dynamic = "force-static";
 export const revalidate = false;
 
 import { notFound } from "next/navigation";
-import { getAllBuilders, getBuilderBySlug } from "@/lib/builders";
+import { getAllBuilders, getBuilderBySlug, getBuilderHtml } from "@/lib/builders";
 import { getAllPosts } from "@/lib/posts";
-import { renderMDX } from "@/lib/mdx";
 import { BuilderRating } from "@/components/mdx/BuilderRating";
 import Link from "next/link";
 import type { Metadata } from "next";
@@ -43,8 +42,8 @@ export default async function BuilderPage({
   const builder = await getBuilderBySlug(slug);
   if (!builder) notFound();
 
-  const { meta, content } = builder;
-  const mdxContent = await renderMDX(content);
+  const { meta } = builder;
+  const html = getBuilderHtml(slug);
   const status = statusLabels[meta.status];
 
   // Related posts
@@ -117,9 +116,10 @@ export default async function BuilderPage({
       </div>
 
       {/* MDX Body */}
-      <article className="prose prose-invert max-w-none [&_p]:text-[var(--color-text)] [&_p]:leading-relaxed [&_h2]:font-display [&_h3]:font-display [&_li]:text-[var(--color-text)] [&_strong]:text-[var(--color-text)]">
-        {mdxContent}
-      </article>
+      <article
+        className="prose prose-invert max-w-none [&_p]:text-[var(--color-text)] [&_p]:leading-relaxed [&_h2]:font-display [&_h3]:font-display [&_li]:text-[var(--color-text)] [&_strong]:text-[var(--color-text)]"
+        dangerouslySetInnerHTML={{ __html: html }}
+      />
 
       {/* Related Posts */}
       {relatedPosts.length > 0 && (

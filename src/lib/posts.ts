@@ -3,7 +3,7 @@
  * No fs/glob at runtime — safe for Cloudflare Workers.
  */
 import matter from "gray-matter";
-import { POST_RAW } from "./content-manifest";
+import { POST_RAW, POST_HTML } from "./content-manifest";
 
 export type PostMeta = {
   slug: string;
@@ -67,4 +67,19 @@ export async function getPostBySlug(
   const [key, raw] = entry;
   const { content } = matter(raw);
   return { meta: parsePost(key, raw), content };
+}
+
+/** Returns pre-compiled HTML for a post — no eval() at runtime. */
+export function getPostHtml(
+  year: string,
+  month: string,
+  day: string,
+  slug: string
+): string {
+  const key = Object.keys(POST_HTML).find((k) => {
+    const [, filename] = k.split("/");
+    const parsed = parseFilename(filename);
+    return parsed.year === year && parsed.month === month && parsed.day === day && parsed.slug === slug;
+  });
+  return key ? (POST_HTML[key] ?? "") : "";
 }

@@ -3,7 +3,7 @@
  * No fs/glob at runtime — safe for Cloudflare Workers.
  */
 import matter from "gray-matter";
-import { BUILDER_RAW } from "./content-manifest";
+import { BUILDER_RAW, BUILDER_HTML } from "./content-manifest";
 
 export type BuilderMeta = {
   slug: string;
@@ -50,4 +50,9 @@ export async function getBuilderBySlug(
   const raw = BUILDER_RAW[slug];
   if (!raw) return null;
   return parseBuilder(slug, raw);
+}
+
+/** Returns pre-compiled HTML for a builder — no eval() at runtime. */
+export function getBuilderHtml(slug: string): string {
+  return BUILDER_HTML[slug] ?? "";
 }

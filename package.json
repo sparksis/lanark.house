@@ -30,6 +30,7 @@
     "esbuild": "^0.28.0",
     "eslint": "^9",
     "eslint-config-next": "16.2.3",
+    "rehype-stringify": "^10.0.1",
     "tailwindcss": "^4",
     "typescript": "^5",
     "wrangler": "^4.81.1"

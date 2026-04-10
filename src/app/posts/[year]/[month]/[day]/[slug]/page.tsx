@@ -2,8 +2,7 @@ export const dynamic = "force-static";
 export const revalidate = false;
 
 import { notFound } from "next/navigation";
-import { getAllPosts, getPostBySlug } from "@/lib/posts";
-import { renderMDX } from "@/lib/mdx";
+import { getAllPosts, getPostBySlug, getPostHtml } from "@/lib/posts";
 import Link from "next/link";
 import type { Metadata } from "next";
 
@@ -53,8 +52,8 @@ export default async function PostPage({
   const post = await getPostBySlug(year, month, day, slug);
   if (!post) notFound();
 
-  const { meta, content } = post;
-  const mdxContent = await renderMDX(content);
+  const { meta } = post;
+  const html = getPostHtml(year, month, day, slug);
 
   return (
     <div className="max-w-3xl mx-auto px-4 py-12">
@@ -98,9 +97,10 @@ export default async function PostPage({
         )}
       </header>
 
-      <article className="prose prose-invert max-w-none [&_p]:text-[var(--color-text)] [&_p]:leading-relaxed [&_h2]:font-display [&_h3]:font-display [&_li]:text-[var(--color-text)] [&_strong]:text-[var(--color-text)] [&_blockquote]:border-l-[var(--color-accent)] [&_blockquote]:text-[var(--color-text-muted)]">
-        {mdxContent}
-      </article>
+      <article
+        className="prose prose-invert max-w-none [&_p]:text-[var(--color-text)] [&_p]:leading-relaxed [&_h2]:font-display [&_h3]:font-display [&_li]:text-[var(--color-text)] [&_strong]:text-[var(--color-text)] [&_blockquote]:border-l-[var(--color-accent)] [&_blockquote]:text-[var(--color-text-muted)]"
+        dangerouslySetInnerHTML={{ __html: html }}
+      />
     </div>
   );
 }
