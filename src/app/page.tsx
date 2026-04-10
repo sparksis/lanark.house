@@ -121,7 +121,7 @@ export default function HomePage() {
         <div className="flex gap-4 justify-center flex-wrap">
           <Link
             href="/journey"
-            className="px-6 py-3 bg-[var(--color-accent)] text-[var(--color-bg)] rounded-lg font-medium hover:bg-[var(--color-accent-light)] transition-colors"
+            className="px-6 py-3 bg-[var(--color-accent)] text-white rounded-lg font-medium hover:opacity-90 transition-opacity"
           >
             View Timeline
           </Link>
