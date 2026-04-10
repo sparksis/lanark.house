@@ -54,4 +54,4 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: 62758afcaaf5e929beeac70e72312bc6
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
-          command: versions upload --preview-alias ${{ steps.branch.outputs.slug }} --message "${{ github.event.head_commit.message }}"
+          command: versions upload --preview-alias ${{ steps.branch.outputs.slug }}
