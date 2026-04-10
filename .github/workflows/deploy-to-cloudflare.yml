@@ -1,8 +1,8 @@
-name: Deploy Next.js to Cloudflare Pages
+name: Deploy to Cloudflare Pages (OpenNext)
 
 on:
   push:
-    branches: [perplexity/main]
+    branches: ["perplexity/main"]
 
 jobs:
   deploy:
@@ -17,10 +17,10 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
-          cache: 'npm'
+          node-version: "20"
+          cache: "npm"
       - run: npm ci
-      - run: npm run build
+      - run: npx opennextjs-cloudflare build
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
       - uses: cloudflare/wrangler-action@7a5f8bbdfeedcde38e6777a50fe685f89259d4ca
@@ -29,4 +29,4 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: 62758afcaaf5e929beeac70e72312bc6
           wranglerVersion: "3"
-          command: pages deploy out --project-name lanark-house --commit-dirty=true
+          command: deploy --name lanark-house --commit-dirty=true
