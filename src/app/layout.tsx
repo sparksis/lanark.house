@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     template: "%s | lanark.house",
   },
   description:
-    "Documenting 18 months, 3 builders, and 2 collapsed deals on the path to 728 Langley Terrace SE, Airdrie AB.",
+    "Documenting 18 months, 3 builders, and 2 collapsed deals on the path to Langley Terrace SE, Airdrie AB.",
   metadataBase: new URL("https://lanark.house"),
 };
 

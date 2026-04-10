@@ -35,7 +35,7 @@ const insights = [
     status: "SUCCESS",
     statusColor: "#52c41a",
     summary:
-      "Collaborative sales process led to successful possession at 728 Langley Terrace.",
+      "Collaborative sales process led to successful possession at Langley Terrace.",
     href: "/builders/sterling-homes",
   },
 ];
@@ -46,7 +46,7 @@ export default function HomePage() {
       {/* Hero */}
       <section className="text-center py-16">
         <h1 className="font-display text-4xl md:text-5xl font-bold mb-4">
-          728 Langley Terrace SE
+          Langley Terrace SE
         </h1>
         <p className="text-lg text-[var(--color-text-muted)] mb-2">
           Airdrie, AB T4A 3R1

@@ -193,7 +193,7 @@ export const builderStructuredData: Record<string, BuilderStructuredData> = {
         addressCountry: "CA",
       },
       description:
-        "Sterling Homes is an Alberta home builder. This review covers a quick-possession Luna model purchase at 728 Langley Terrace SE, Airdrie, AB T4A 3R1 (job #J158004), with possession on June 2, 2025.",
+        "Sterling Homes is an Alberta home builder. This review covers a quick-possession Luna model purchase at Langley Terrace SE, Airdrie, AB T4A 3R1 (job #J158004), with possession on June 2, 2025.",
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: "3",
@@ -215,7 +215,7 @@ export const builderStructuredData: Record<string, BuilderStructuredData> = {
           worstRating: "1",
         },
         reviewBody:
-          "Sterling Homes delivered my Luna model at 728 Langley Terrace SE, Airdrie (T4A 3R1, job #J158004) on June 2, 2025, on time and at the agreed price. The pre-possession home inspection returned a clean report. However, post-possession brought challenges: a site supervisor who provided dangerously incorrect information about foam off-gassing safety timelines on possession day; an eavestrough deficiency that took repeated follow-up to address; a hot water system failure first observed in December 2025 that required months of warranty follow-up; and the mandatory Virtuo warranty app had a critical bug on Google Pixel Android devices. Sterling Homes has potential but needs to improve post-possession communication and site supervisor conduct.",
+          "Sterling Homes delivered my Luna model at Langley Terrace SE, Airdrie (T4A 3R1, job #J158004) on June 2, 2025, on time and at the agreed price. The pre-possession home inspection returned a clean report. However, post-possession brought challenges: a site supervisor who provided dangerously incorrect information about foam off-gassing safety timelines on possession day; an eavestrough deficiency that took repeated follow-up to address; a hot water system failure first observed in December 2025 that required months of warranty follow-up; and the mandatory Virtuo warranty app had a critical bug on Google Pixel Android devices. Sterling Homes has potential but needs to improve post-possession communication and site supervisor conduct.",
       },
     },
     faqPage: {
@@ -227,7 +227,7 @@ export const builderStructuredData: Record<string, BuilderStructuredData> = {
           name: "Is Sterling Homes a good builder in Airdrie?",
           acceptedAnswer: {
             "@type": "Answer",
-            text: "Sterling Homes delivered a completed Luna model at 728 Langley Terrace SE, Airdrie on June 2, 2025 on time and at the agreed price. The pre-possession home inspection by Nook & Cranny Home Inspections returned a remarkably clean report. Post-possession, however, several warranty issues emerged: a foam off-gassing safety incident on possession day, eavestrough concerns requiring repeated follow-up, and a persistent hot water system failure first noticed in December 2025. The one-year builder warranty expires June 2, 2026.",
+            text: "Sterling Homes delivered a completed Luna model at Langley Terrace SE, Airdrie on June 2, 2025 on time and at the agreed price. The pre-possession home inspection by Nook & Cranny Home Inspections returned a remarkably clean report. Post-possession, however, several warranty issues emerged: a foam off-gassing safety incident on possession day, eavestrough concerns requiring repeated follow-up, and a persistent hot water system failure first noticed in December 2025. The one-year builder warranty expires June 2, 2026.",
           },
         },
         {
@@ -235,7 +235,7 @@ export const builderStructuredData: Record<string, BuilderStructuredData> = {
           name: "What is the Sterling Homes Luna model?",
           acceptedAnswer: {
             "@type": "Answer",
-            text: "The Luna is a single-family quick-possession model offered by Sterling Homes. The Luna at 728 Langley Terrace SE, Airdrie (job #J158004) was a quick-possession home, allowing the buyer to inspect the finished product before signing. Features included 50-year roofing tiles. Quick possession was a major advantage \u2014 the buyer could see exactly what they were purchasing, avoiding the specification ambiguities that had plagued earlier builder experiences.",
+            text: "The Luna is a single-family quick-possession model offered by Sterling Homes. The Luna at Langley Terrace SE, Airdrie (job #J158004) was a quick-possession home, allowing the buyer to inspect the finished product before signing. Features included 50-year roofing tiles. Quick possession was a major advantage \u2014 the buyer could see exactly what they were purchasing, avoiding the specification ambiguities that had plagued earlier builder experiences.",
           },
         },
         {
@@ -259,7 +259,7 @@ export const builderStructuredData: Record<string, BuilderStructuredData> = {
           name: "Does Sterling Homes build in Airdrie?",
           acceptedAnswer: {
             "@type": "Answer",
-            text: "Yes, Sterling Homes builds in Airdrie, Alberta. The Luna model quick-possession home at 728 Langley Terrace SE, Airdrie, AB T4A 3R1 (job #J158004) was purchased and occupied in June 2025. Sterling Homes\u2019 sales team can be reached at sterlingcalgary.com.",
+            text: "Yes, Sterling Homes builds in Airdrie, Alberta. The Luna model quick-possession home at Langley Terrace SE, Airdrie, AB T4A 3R1 (job #J158004) was purchased and occupied in June 2025. Sterling Homes\u2019 sales team can be reached at sterlingcalgary.com.",
           },
         },
       ],

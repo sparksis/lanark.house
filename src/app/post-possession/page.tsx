@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Post-Possession Tracker",
   description:
-    "Outstanding builder activities and warranty items for 728 Langley Terrace SE.",
+    "Outstanding builder activities and warranty items for Langley Terrace SE.",
 };
 
 const statusColors: Record<string, string> = {
@@ -60,7 +60,7 @@ export default async function PostPossessionPage() {
         Post-Possession Tracker
       </h1>
       <p className="text-[var(--color-text-muted)] mb-1">
-        Outstanding builder activities for 728 Langley Terrace SE.
+        Outstanding builder activities for Langley Terrace SE.
       </p>
       <p className="text-xs text-[var(--color-text-muted)] mb-6">
         Last sync&apos;d: {syncedAt}
