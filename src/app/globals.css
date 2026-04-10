@@ -50,12 +50,14 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--color-bg);
 }
 
-a {
-  color: var(--color-accent);
-  text-decoration: none;
-  transition: color 0.2s;
-}
+@layer base {
+  a {
+    color: var(--color-accent);
+    text-decoration: none;
+    transition: color 0.2s;
+  }
 
-a:hover {
-  color: var(--color-accent-light);
+  a:hover {
+    color: var(--color-accent-light);
+  }
 }
