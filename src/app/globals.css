@@ -12,6 +12,7 @@
   --color-accent-light: #a7f3d0;
   --color-accent-xlight: #d1fae5;
   --font-display: 'Zodiak', serif;
+  --font-heading: var(--font-quicksand), 'Quicksand', sans-serif;
   --font-body: 'Satoshi', sans-serif;
 }
 
@@ -36,6 +37,7 @@
   --color-accent: var(--color-accent);
   --color-accent-light: var(--color-accent-light);
   --font-display: var(--font-display);
+  --font-heading: var(--font-heading);
   --font-body: var(--font-body);
 }
 
@@ -46,8 +48,13 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-display);
+  font-family: var(--font-heading);
+  font-optical-sizing: auto;
 }
+
+h1 { font-weight: 700; }
+h2 { font-weight: 600; }
+h3, h4 { font-weight: 500; }
 
 ::selection {
   background: var(--color-accent);
@@ -72,18 +79,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .prose h2 {
-  font-family: var(--font-display);
+  font-family: var(--font-heading);
   font-size: 1.5rem;
-  font-weight: 700;
+  font-weight: 600;
   margin-top: 2rem;
   margin-bottom: 0.75rem;
   color: var(--color-text);
 }
 
 .prose h3 {
-  font-family: var(--font-display);
+  font-family: var(--font-heading);
   font-size: 1.25rem;
-  font-weight: 600;
+  font-weight: 500;
   margin-top: 1.5rem;
   margin-bottom: 0.5rem;
   color: var(--color-text);
