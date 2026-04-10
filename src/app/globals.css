@@ -7,8 +7,8 @@
   --color-border: #363230;
   --color-text: #e6e1d8;
   --color-text-muted: #918d87;
-  --color-accent: #d4952a;
-  --color-accent-light: #e8b355;
+  --color-accent: #2dd4bf;
+  --color-accent-light: #5eead4;
   --font-display: 'Zodiak', serif;
   --font-body: 'Satoshi', sans-serif;
 }
@@ -19,8 +19,8 @@
   --color-border: #e0ddd8;
   --color-text: #1a1816;
   --color-text-muted: #6b6560;
-  --color-accent: #d4952a;
-  --color-accent-light: #e8b355;
+  --color-accent: #0d9488;
+  --color-accent-light: #14b8a6;
 }
 
 @theme inline {

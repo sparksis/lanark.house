@@ -1,4 +1,4 @@
-name: Deploy to Cloudflare Pages (OpenNext)
+name: Deploy to Cloudflare (OpenNext)
 
 on:
   push:
@@ -15,18 +15,32 @@ jobs:
       url: ${{ steps.deploy.outputs.deployment-url }}
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
           cache: "npm"
+
+      - name: Restore Next.js build cache
+        uses: actions/cache@v4
+        with:
+          path: .next/cache
+          key: ${{ runner.os }}-nextjs-${{ hashFiles('**/package-lock.json') }}-${{ hashFiles('src/**/*.ts', 'src/**/*.tsx', 'content/**/*.mdx') }}
+          restore-keys: |
+            ${{ runner.os }}-nextjs-${{ hashFiles('**/package-lock.json') }}-
+
       - run: npm ci
-      - run: npx opennextjs-cloudflare build
+
+      - name: Build (OpenNext)
+        run: npx opennextjs-cloudflare build
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
-      - uses: cloudflare/wrangler-action@7a5f8bbdfeedcde38e6777a50fe685f89259d4ca
+          NEXT_TELEMETRY_DISABLED: 1
+
+      - name: Deploy to Cloudflare
+        uses: cloudflare/wrangler-action@v3
         id: deploy
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: 62758afcaaf5e929beeac70e72312bc6
-          wranglerVersion: "4"
           command: deploy

@@ -1,4 +1,6 @@
 import Link from "next/link";
+export const dynamic = "force-static";
+export const revalidate = false;
 import { getAllPosts } from "@/lib/posts";
 import type { Metadata } from "next";
 
