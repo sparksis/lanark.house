@@ -1,4 +1,5 @@
 import { compileMDX } from "next-mdx-remote/rsc";
+import remarkGfm from "remark-gfm";
 import { Callout } from "@/components/mdx/Callout";
 import { BuilderRating } from "@/components/mdx/BuilderRating";
 import { TimelineItem } from "@/components/mdx/TimelineItem";
@@ -15,6 +16,9 @@ export async function renderMDX(source: string) {
     components,
     options: {
       parseFrontmatter: false,
+      mdxOptions: {
+        remarkPlugins: [remarkGfm],
+      },
     },
   });
 
