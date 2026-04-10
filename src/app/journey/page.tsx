@@ -100,7 +100,7 @@ const phases = [
   },
   {
     name: "Sterling Homes",
-    color: "#52c41a",
+    color: "#34d399",
     events: [
       {
         date: "May 3, 2025",

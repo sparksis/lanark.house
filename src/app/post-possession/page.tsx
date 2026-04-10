@@ -16,7 +16,7 @@ const statusColors: Record<string, string> = {
   "In Dispute": "#e85050",
   "In progress": "#4ea8de",
   "In review / documentation": "#a78bfa",
-  Done: "#52c41a",
+  Done: "#34d399",
 };
 
 const statusOrder: Record<string, number> = {
@@ -79,7 +79,7 @@ export default async function PostPossessionPage() {
           <div className="text-sm text-[var(--color-text-muted)]">Open</div>
         </div>
         <div className="bg-[var(--color-surface-card)] border border-[var(--color-border)] rounded-lg p-4 text-center">
-          <div className="text-2xl font-bold text-[#52c41a]">{doneCount}</div>
+          <div className="text-2xl font-bold text-[#34d399]">{doneCount}</div>
           <div className="text-sm text-[var(--color-text-muted)]">Done</div>
         </div>
       </div>

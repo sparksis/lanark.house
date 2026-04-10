@@ -45,7 +45,7 @@ export default function ContactPage() {
       </p>
 
       {status === "sent" ? (
-        <div className="bg-[#52c41a]/10 border border-[#52c41a]/30 rounded-lg p-6 text-center">
+        <div className="bg-[#34d399]/10 border border-[#34d399]/30 rounded-lg p-6 text-center">
           <p className="text-lg font-medium">Message sent!</p>
           <p className="text-sm text-[var(--color-text-muted)] mt-2">
             Thanks for reaching out. I&apos;ll get back to you soon.

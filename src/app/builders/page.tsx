@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 const statusLabels: Record<string, { label: string; color: string }> = {
   failed: { label: "FAILED", color: "#e85050" },
   terminated: { label: "TERMINATED", color: "#e8b355" },
-  success: { label: "SUCCESS", color: "#52c41a" },
+  success: { label: "SUCCESS", color: "#34d399" },
 };
 
 export default async function BuildersPage() {
@@ -77,7 +77,7 @@ export default async function BuildersPage() {
               </p>
 
               <div className="text-sm">
-                <span className="text-[#52c41a]">+{meta.pros.length} pros</span>
+                <span className="text-[#34d399]">+{meta.pros.length} pros</span>
                 <span className="mx-2 text-[var(--color-border)]">/</span>
                 <span className="text-[#e85050]">-{meta.cons.length} cons</span>
               </div>

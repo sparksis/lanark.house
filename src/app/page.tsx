@@ -33,7 +33,7 @@ const insights = [
     title: "Sterling Homes",
     rating: "4/5",
     status: "SUCCESS",
-    statusColor: "#52c41a",
+    statusColor: "#34d399",
     summary:
       "Collaborative sales process led to successful possession at Langley Terrace.",
     href: "/builders/sterling-homes",
