@@ -27,6 +27,15 @@ const statusOrder: Record<string, number> = {
 
 export default async function PostPossessionPage() {
   const tasks = await getOutstandingTasks();
+  const syncedAt = new Date().toLocaleString("en-CA", {
+    timeZone: "America/Edmonton",
+    year: "numeric",
+    month: "short",
+    day: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+    timeZoneName: "short",
+  });
 
   // Group by status
   const grouped: Record<string, NotionTask[]> = {};
@@ -47,9 +56,11 @@ export default async function PostPossessionPage() {
       <h1 className="font-display text-3xl font-bold mb-2">
         Post-Possession Tracker
       </h1>
-      <p className="text-[var(--color-text-muted)] mb-6">
-        Outstanding builder activities for 728 Langley Terrace SE. This is a
-        point-in-time snapshot from the last build.
+      <p className="text-[var(--color-text-muted)] mb-1">
+        Outstanding builder activities for 728 Langley Terrace SE.
+      </p>
+      <p className="text-xs text-[var(--color-text-muted)] mb-6">
+        Last sync&apos;d: {syncedAt}
       </p>
 
       {/* Summary */}
