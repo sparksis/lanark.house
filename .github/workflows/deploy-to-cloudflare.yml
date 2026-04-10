@@ -1,8 +1,8 @@
-name: Deploy to Cloudflare Pages (OpenNext)
+name: Deploy to Cloudflare Workers (OpenNext)
 
 on:
   push:
-    branches: ["perplexity/main"]
+    branches: ["perplexity/**"]
 
 jobs:
   deploy:
@@ -12,7 +12,8 @@ jobs:
       deployments: write
     environment:
       name: cloudflare
-      url: ${{ steps.deploy.outputs.deployment-url }}
+      url: https://perplexity-main-lanark-house.colton-627.workers.dev
+
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
 
@@ -37,17 +38,20 @@ jobs:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           NEXT_TELEMETRY_DISABLED: 1
 
-      - name: Prepare Pages deployment
-        # Cloudflare Pages serves static assets and routes dynamic requests
-        # through _worker.js. OpenNext's worker uses the same ASSETS binding
-        # interface, so it is compatible as a Pages _worker.js.
-        run: cp .open-next/worker.js .open-next/assets/_worker.js
+      - name: Sanitize branch slug for preview alias
+        id: branch
+        run: |
+          SLUG="${{ github.ref_name }}"
+          # replace slashes and underscores with dashes, lowercase, strip non-alnum-dash
+          SLUG=$(echo "$SLUG" | tr '/' '-' | tr '_' '-' | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9-]//g' | sed 's/^-*//;s/-*$//')
+          echo "slug=$SLUG" >> $GITHUB_OUTPUT
+          echo "Preview alias: $SLUG"
+          echo "Preview URL: https://${SLUG}-lanark-house.colton-627.workers.dev"
 
-      - name: Deploy to Cloudflare Pages
+      - name: Upload Worker version with preview alias
         uses: cloudflare/wrangler-action@da0e0dfe58b7a431659754fdf3f186c529afbe65 # v3.14.1
-        id: deploy
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: 62758afcaaf5e929beeac70e72312bc6
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
-          command: pages deploy .open-next/assets --project-name lanark-house --branch ${{ github.ref_name }} --commit-hash ${{ github.sha }} --commit-message "${{ github.event.head_commit.message }}"
+          command: versions upload --preview-alias ${{ steps.branch.outputs.slug }} --message "${{ github.event.head_commit.message }}"
