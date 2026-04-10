@@ -1,3 +1,6 @@
+export const dynamic = "force-static";
+export const revalidate = false;
+
 import { notFound } from "next/navigation";
 import { getAllPosts, getPostBySlug } from "@/lib/posts";
 import { renderMDX } from "@/lib/mdx";

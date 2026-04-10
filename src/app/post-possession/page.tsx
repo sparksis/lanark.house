@@ -1,3 +1,6 @@
+export const dynamic = "force-static";
+export const revalidate = false;
+
 import { getOutstandingTasks, type NotionTask } from "@/lib/notion";
 import type { Metadata } from "next";
 

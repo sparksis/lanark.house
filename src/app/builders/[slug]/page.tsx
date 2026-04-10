@@ -1,3 +1,6 @@
+export const dynamic = "force-static";
+export const revalidate = false;
+
 import { notFound } from "next/navigation";
 import { getAllBuilders, getBuilderBySlug } from "@/lib/builders";
 import { getAllPosts } from "@/lib/posts";

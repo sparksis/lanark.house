@@ -1,3 +1,6 @@
+export const dynamic = "force-static";
+export const revalidate = false;
+
 import Link from "next/link";
 
 const stats = [
