@@ -33,7 +33,7 @@ export default async function BuildersPage() {
         Here&apos;s how each one stacked up.
       </p>
 
-      <div className="grid md:grid-cols-3 gap-6">
+      <div className="flex flex-col gap-6 max-w-3xl">
         {builders.map(({ meta }) => {
           const status = statusLabels[meta.status];
           return (

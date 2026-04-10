@@ -4,6 +4,7 @@ export const revalidate = false;
 import { notFound } from "next/navigation";
 import { getAllBuilders, getBuilderBySlug, getBuilderHtml } from "@/lib/builders";
 import { getAllPosts } from "@/lib/posts";
+import { builderStructuredData } from "@/lib/builder-structured-data";
 import { BuilderRating } from "@/components/mdx/BuilderRating";
 import Link from "next/link";
 import type { Metadata } from "next";
@@ -50,8 +51,26 @@ export default async function BuilderPage({
   const allPosts = await getAllPosts();
   const relatedPosts = allPosts.filter((p) => p.builder === meta.slug);
 
+  const structuredData = builderStructuredData[slug];
+
   return (
     <div className="max-w-3xl mx-auto px-4 py-12">
+      {structuredData && (
+        <>
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify(structuredData.localBusiness),
+            }}
+          />
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify(structuredData.faqPage),
+            }}
+          />
+        </>
+      )}
       <Link
         href="/builders"
         className="text-sm text-[var(--color-text-muted)] hover:text-[var(--color-accent)] mb-6 inline-block"
