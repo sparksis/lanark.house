@@ -26,14 +26,14 @@ export default async function BuildersPage() {
   );
 
   return (
-    <div className="max-w-5xl mx-auto px-4 py-12">
+    <div className="max-w-3xl mx-auto px-4 py-12">
       <h1 className="font-display text-3xl font-bold mb-2">Builder Reviews</h1>
       <p className="text-[var(--color-text-muted)] mb-8">
         Three builders, two collapsed deals, one successful home purchase.
         Here&apos;s how each one stacked up.
       </p>
 
-      <div className="flex flex-col gap-6 max-w-3xl">
+      <div className="flex flex-col gap-6">
         {builders.map(({ meta }) => {
           const status = statusLabels[meta.status];
           return (
