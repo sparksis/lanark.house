@@ -1,7 +1,12 @@
-import fs from "fs";
-import path from "path";
+/**
+ * Builder content loaded via static `?raw` webpack imports.
+ * No fs/glob calls at runtime — safe for Cloudflare Workers.
+ */
 import matter from "gray-matter";
-import { glob } from "glob";
+
+import sterlingRaw from "../../content/builders/sterling-homes.mdx?raw";
+import jaymanRaw from "../../content/builders/jayman-built.mdx?raw";
+import douglasRaw from "../../content/builders/douglas-homes.mdx?raw";
 
 export type BuilderMeta = {
   slug: string;
@@ -20,44 +25,38 @@ export type BuilderMeta = {
   possession_date: string | null;
 };
 
-const BUILDERS_DIR = path.join(process.cwd(), "content/builders");
+const RAW_BUILDERS = [
+  { raw: sterlingRaw, slug: "sterling-homes" },
+  { raw: jaymanRaw, slug: "jayman-built" },
+  { raw: douglasRaw, slug: "douglas-homes" },
+];
 
-export async function getAllBuilders(): Promise<
-  { meta: BuilderMeta; content: string }[]
-> {
-  const files = await glob("*.mdx", { cwd: BUILDERS_DIR });
+function parseBuilder(raw: string, slug: string): { meta: BuilderMeta; content: string } {
+  const { data, content } = matter(raw);
+  return {
+    meta: {
+      slug,
+      title: data.title || slug,
+      builder: data.builder || slug,
+      rating: data.rating || 0,
+      address: data.address || { street: "", city: "", province: "", postal: "" },
+      pros: data.pros || [],
+      cons: data.cons || [],
+      status: data.status || "failed",
+      possession_date: data.possession_date || null,
+    },
+    content,
+  };
+}
 
-  return files.map((file) => {
-    const fullPath = path.join(BUILDERS_DIR, file);
-    const raw = fs.readFileSync(fullPath, "utf-8");
-    const { data, content } = matter(raw);
-    const slug = path.basename(file, ".mdx");
-
-    return {
-      meta: {
-        slug,
-        title: data.title || slug,
-        builder: data.builder || slug,
-        rating: data.rating || 0,
-        address: data.address || {
-          street: "",
-          city: "",
-          province: "",
-          postal: "",
-        },
-        pros: data.pros || [],
-        cons: data.cons || [],
-        status: data.status || "failed",
-        possession_date: data.possession_date || null,
-      },
-      content,
-    };
-  });
+export async function getAllBuilders(): Promise<{ meta: BuilderMeta; content: string }[]> {
+  return RAW_BUILDERS.map(({ raw, slug }) => parseBuilder(raw, slug));
 }
 
 export async function getBuilderBySlug(
   slug: string
 ): Promise<{ meta: BuilderMeta; content: string } | null> {
-  const builders = await getAllBuilders();
-  return builders.find((b) => b.meta.slug === slug) || null;
+  const entry = RAW_BUILDERS.find((b) => b.slug === slug);
+  if (!entry) return null;
+  return parseBuilder(entry.raw, entry.slug);
 }
