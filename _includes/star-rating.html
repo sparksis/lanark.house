@@ -1,0 +1,12 @@
+{% assign rating = include.rating | default: 0 | plus: 0 %}
+{% assign max_rating = 5 %}
+
+<span class="star-rating" role="img" aria-label="{{ rating }} out of {{ max_rating }} stars">
+  {% for i in (1..max_rating) %}
+    {% if i <= rating %}
+      <span class="star star--filled" aria-hidden="true">★</span>
+    {% else %}
+      <span class="star star--empty" aria-hidden="true">☆</span>
+    {% endif %}
+  {% endfor %}
+</span>

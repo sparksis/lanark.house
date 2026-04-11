@@ -1,0 +1,32 @@
+Configuration file: /app/_config.yml
+      Remote Theme: Using theme daviddarnes/garth
+            Source: /app
+       Destination: /app/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+      Remote Theme: Using theme daviddarnes/garth
+       Jekyll Feed: Generating feed for posts
+                    done in 0.598 seconds.
+ Auto-regeneration: enabled for '/app'
+[31m                    ------------------------------------------------[0m
+[31m      Jekyll 4.1.0   Please append `--trace` to the `serve` command [0m
+[31m                     for any additional information or backtrace. [0m
+[31m                    ------------------------------------------------[0m
+<internal:/usr/lib/ruby/vendor_ruby/rubygems/core_ext/kernel_require.rb>:38:in `require': cannot load such file -- webrick (LoadError)
+	from <internal:/usr/lib/ruby/vendor_ruby/rubygems/core_ext/kernel_require.rb>:38:in `require'
+	from /var/lib/gems/3.2.0/gems/jekyll-4.1.0/lib/jekyll/commands/serve/servlet.rb:3:in `<top (required)>'
+	from /var/lib/gems/3.2.0/gems/jekyll-4.1.0/lib/jekyll/commands/serve.rb:179:in `require_relative'
+	from /var/lib/gems/3.2.0/gems/jekyll-4.1.0/lib/jekyll/commands/serve.rb:179:in `setup'
+	from /var/lib/gems/3.2.0/gems/jekyll-4.1.0/lib/jekyll/commands/serve.rb:100:in `process'
+	from /var/lib/gems/3.2.0/gems/jekyll-4.1.0/lib/jekyll/command.rb:91:in `block in process_with_graceful_fail'
+	from /var/lib/gems/3.2.0/gems/jekyll-4.1.0/lib/jekyll/command.rb:91:in `each'
+	from /var/lib/gems/3.2.0/gems/jekyll-4.1.0/lib/jekyll/command.rb:91:in `process_with_graceful_fail'
+	from /var/lib/gems/3.2.0/gems/jekyll-4.1.0/lib/jekyll/commands/serve.rb:86:in `block (2 levels) in init_with_program'
+	from /var/lib/gems/3.2.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `block in execute'
+	from /var/lib/gems/3.2.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `each'
+	from /var/lib/gems/3.2.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `execute'
+	from /var/lib/gems/3.2.0/gems/mercenary-0.4.0/lib/mercenary/program.rb:44:in `go'
+	from /var/lib/gems/3.2.0/gems/mercenary-0.4.0/lib/mercenary.rb:21:in `program'
+	from /var/lib/gems/3.2.0/gems/jekyll-4.1.0/exe/jekyll:15:in `<top (required)>'
+	from /usr/local/bin/jekyll:25:in `load'
+	from /usr/local/bin/jekyll:25:in `<main>'

@@ -1,0 +1,7 @@
+127.0.0.1 - - [11/Apr/2026 06:22:04] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [11/Apr/2026 06:22:05] "GET /assets/styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [11/Apr/2026 06:22:09] "GET /builders/douglas-homes.html HTTP/1.1" 200 -
+127.0.0.1 - - [11/Apr/2026 06:22:45] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [11/Apr/2026 06:22:45] "GET /assets/styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [11/Apr/2026 06:22:48] "GET /builders/douglas-homes.html HTTP/1.1" 200 -
+127.0.0.1 - - [11/Apr/2026 06:22:48] "GET /assets/styles.css HTTP/1.1" 304 -

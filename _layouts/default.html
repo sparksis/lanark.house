@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<meta charset="utf-8">
 <html lang="{{ site.lang | default: "en-US" }}">
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,6 +13,16 @@
 		{% endif %}
 
 		<link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
+
+		<style>
+			.star-rating {
+				color: #FFB400;
+				font-size: 1.2em;
+			}
+			.star {
+				margin-right: 2px;
+			}
+		</style>
 
 		{% if site.favicon %}
 			<link rel="shortcut icon" href="{{ site.favicon }}">
