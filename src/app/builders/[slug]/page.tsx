@@ -4,6 +4,7 @@ export const revalidate = false;
 import { notFound } from "next/navigation";
 import { getAllBuilders, getBuilderBySlug, getBuilderHtml } from "@/lib/builders";
 import { getAllPosts } from "@/lib/posts";
+import { builderStructuredData } from "@/lib/builder-structured-data";
 import { BuilderRating } from "@/components/mdx/BuilderRating";
 import Link from "next/link";
 import type { Metadata } from "next";
@@ -30,7 +31,7 @@ export async function generateMetadata({
 const statusLabels: Record<string, { label: string; color: string }> = {
   failed: { label: "FAILED", color: "#e85050" },
   terminated: { label: "TERMINATED", color: "#e8b355" },
-  success: { label: "SUCCESS", color: "#52c41a" },
+  success: { label: "SUCCESS", color: "#34d399" },
 };
 
 export default async function BuilderPage({
@@ -50,8 +51,26 @@ export default async function BuilderPage({
   const allPosts = await getAllPosts();
   const relatedPosts = allPosts.filter((p) => p.builder === meta.slug);
 
+  const structuredData = builderStructuredData[slug];
+
   return (
     <div className="max-w-3xl mx-auto px-4 py-12">
+      {structuredData && (
+        <>
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify(structuredData.localBusiness),
+            }}
+          />
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify(structuredData.faqPage),
+            }}
+          />
+        </>
+      )}
       <Link
         href="/builders"
         className="text-sm text-[var(--color-text-muted)] hover:text-[var(--color-accent)] mb-6 inline-block"
@@ -92,11 +111,11 @@ export default async function BuilderPage({
       {/* Pros/Cons */}
       <div className="grid md:grid-cols-2 gap-6 mb-8">
         <div className="bg-[var(--color-surface-card)] border border-[var(--color-border)] rounded-lg p-4">
-          <h2 className="font-semibold text-[#52c41a] mb-3">Pros</h2>
+          <h2 className="font-semibold text-[#34d399] mb-3">Pros</h2>
           <ul className="space-y-2">
             {meta.pros.map((pro, i) => (
               <li key={i} className="text-sm flex gap-2">
-                <span className="text-[#52c41a]">+</span>
+                <span className="text-[#34d399]">+</span>
                 {pro}
               </li>
             ))}
@@ -117,7 +136,7 @@ export default async function BuilderPage({
 
       {/* MDX Body */}
       <article
-        className="prose prose-invert max-w-none [&_p]:text-[var(--color-text)] [&_p]:leading-relaxed [&_h2]:font-display [&_h3]:font-display [&_li]:text-[var(--color-text)] [&_strong]:text-[var(--color-text)]"
+        className="prose max-w-none"
         dangerouslySetInnerHTML={{ __html: html }}
       />
 

@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Post-Possession Tracker",
   description:
-    "Outstanding builder activities and warranty items for 728 Langley Terrace SE.",
+    "Outstanding builder activities and warranty items for Langley Terrace SE.",
 };
 
 const statusColors: Record<string, string> = {
@@ -16,7 +16,7 @@ const statusColors: Record<string, string> = {
   "In Dispute": "#e85050",
   "In progress": "#4ea8de",
   "In review / documentation": "#a78bfa",
-  Done: "#52c41a",
+  Done: "#34d399",
 };
 
 const statusOrder: Record<string, number> = {
@@ -60,7 +60,7 @@ export default async function PostPossessionPage() {
         Post-Possession Tracker
       </h1>
       <p className="text-[var(--color-text-muted)] mb-1">
-        Outstanding builder activities for 728 Langley Terrace SE.
+        Outstanding builder activities for Langley Terrace SE.
       </p>
       <p className="text-xs text-[var(--color-text-muted)] mb-6">
         Last sync&apos;d: {syncedAt}
@@ -79,7 +79,7 @@ export default async function PostPossessionPage() {
           <div className="text-sm text-[var(--color-text-muted)]">Open</div>
         </div>
         <div className="bg-[var(--color-surface-card)] border border-[var(--color-border)] rounded-lg p-4 text-center">
-          <div className="text-2xl font-bold text-[#52c41a]">{doneCount}</div>
+          <div className="text-2xl font-bold text-[#34d399]">{doneCount}</div>
           <div className="text-sm text-[var(--color-text-muted)]">Done</div>
         </div>
       </div>

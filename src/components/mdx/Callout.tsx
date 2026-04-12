@@ -8,7 +8,7 @@ export function Callout({
   const styles: Record<string, string> = {
     info: "border-[var(--color-accent)] bg-[var(--color-accent)]/10",
     warning: "border-[#e8b355] bg-[#e8b355]/10",
-    success: "border-[#52c41a] bg-[#52c41a]/10",
+    success: "border-[#34d399] bg-[#34d399]/10",
     danger: "border-[#e85050] bg-[#e85050]/10",
   };
 

@@ -54,4 +54,10 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: 62758afcaaf5e929beeac70e72312bc6
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
-          command: deploy
+          command: ${{ github.ref_name == 'perplexity/main' && 'deploy' || format('versions upload --preview-alias {0}', steps.branch.outputs.slug) }}
+
+      - name: Print preview URL to summary
+        if: github.ref_name != 'perplexity/main'
+        run: |
+          echo "### Preview URL" >> $GITHUB_STEP_SUMMARY
+          echo "https://${{ steps.branch.outputs.slug }}-lanark-house.colton-627.workers.dev" >> $GITHUB_STEP_SUMMARY

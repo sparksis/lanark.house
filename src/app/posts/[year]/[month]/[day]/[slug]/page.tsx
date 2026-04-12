@@ -88,7 +88,7 @@ export default async function PostPage({
             {meta.tags.map((tag) => (
               <span
                 key={tag}
-                className="text-xs px-2 py-0.5 rounded bg-[var(--color-surface-card)] border border-[var(--color-border)] text-[var(--color-text-muted)]"
+                className="text-xs px-2 py-0.5 rounded bg-[var(--color-accent)]/10 text-[var(--color-accent)]"
               >
                 {tag}
               </span>
@@ -98,7 +98,7 @@ export default async function PostPage({
       </header>
 
       <article
-        className="prose prose-invert max-w-none [&_p]:text-[var(--color-text)] [&_p]:leading-relaxed [&_h2]:font-display [&_h3]:font-display [&_li]:text-[var(--color-text)] [&_strong]:text-[var(--color-text)] [&_blockquote]:border-l-[var(--color-accent)] [&_blockquote]:text-[var(--color-text-muted)]"
+        className="prose max-w-none"
         dangerouslySetInnerHTML={{ __html: html }}
       />
     </div>

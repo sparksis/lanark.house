@@ -100,7 +100,7 @@ const phases = [
   },
   {
     name: "Sterling Homes",
-    color: "#52c41a",
+    color: "#34d399",
     events: [
       {
         date: "May 3, 2025",
@@ -111,13 +111,13 @@ const phases = [
       {
         date: "May 21, 2025",
         title: "Mortgage Approved",
-        description: "CIBC mortgage approved for 728 Langley Terrace SE.",
+        description: "CIBC mortgage approved for Langley Terrace SE.",
       },
       {
         date: "May 27, 2025",
         title: "New Home Walkthrough",
         description:
-          "Walked through the home at 728 Langley Terrace with the Sterling team.",
+          "Walked through the home at Langley Terrace with the Sterling team.",
       },
       {
         date: "May 28, 2025",
@@ -129,7 +129,7 @@ const phases = [
         date: "June 2, 2025",
         title: "POSSESSION DAY",
         description:
-          "Took possession of 728 Langley Terrace SE, Airdrie AB T4A 3R1. Rating: 4/5.",
+          "Took possession of Langley Terrace SE, Airdrie AB T4A 3R1. Rating: 4/5.",
       },
       {
         date: "July 16, 2025",
