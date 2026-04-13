@@ -9,3 +9,35 @@
   "flex",
   "theme"
 ;
+
+// Star Rating Styles
+.star-rating {
+  color: $linkColour;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  display: inline-block;
+  letter-spacing: 0.1rem;
+
+  .star {
+    user-select: none;
+  }
+}
+
+.builder-summary .star-rating {
+  margin-top: -0.5rem;
+}
+
+.rating-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+
+  h2 {
+    margin: 0;
+  }
+
+  .star-rating {
+    margin-bottom: 0;
+  }
+}
