@@ -69,7 +69,10 @@ layout: default
     <h1>{{ page.title }}</h1>
 
     <div class="review-summary">
-      <h2>Rating: {{ page.rating }} out of 5 stars</h2>
+      <div class="rating-header">
+        <h2>Overall Rating</h2>
+        {% include star-rating.html rating=page.rating %}
+      </div>
       <p>
         <strong>Address:</strong><br>
         {{ page.address.streetAddress }}<br>
