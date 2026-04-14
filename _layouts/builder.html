@@ -2,32 +2,9 @@
 layout: default
 ---
 
-<head>
-  <style>
-    .review-summary {
-      border: 1px solid #ddd;
-      padding: 20px;
-      margin-bottom: 20px;
-      background-color: #f9f9f9;
-      border-radius: 5px;
-    }
-    .review-summary h2 {
-      margin-top: 0;
-    }
-    .review-summary .pros-cons {
-      display: flex;
-      gap: 20px;
-    }
-    .review-summary .pros, .review-summary .cons {
-      flex: 1;
-    }
-    .review-summary ul {
-      padding-left: 20px;
-    }
-  </style>
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
     "@type": "Review",
     "itemReviewed": {
       "@type": "HomeBuilder",
@@ -55,10 +32,9 @@ layout: default
       "@type": "Organization",
       "name": "lanark.house",
       "url": "{{ site.url }}"
-    }
   }
-  </script>
-</head>
+}
+</script>
 
 {% include site-header.html %}
 
@@ -69,7 +45,7 @@ layout: default
     <h1>{{ page.title }}</h1>
 
     <div class="review-summary">
-      <h2>Rating: {{ page.rating }} out of 5 stars</h2>
+      <h2>Rating: {% include star-rating.html rating=page.rating %}</h2>
       <p>
         <strong>Address:</strong><br>
         {{ page.address.streetAddress }}<br>
