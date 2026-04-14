@@ -9,3 +9,56 @@
   "flex",
   "theme"
 ;
+
+// Builder review styles
+.review-summary {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+
+  h2 {
+    margin-top: 0;
+  }
+
+  .pros-cons {
+    display: flex;
+    gap: 20px;
+  }
+
+  .pros, .cons {
+    flex: 1;
+  }
+
+  ul {
+    padding-left: 20px;
+  }
+}
+
+.builder-summary {
+  margin-bottom: 2rem;
+}
+
+.star-rating {
+  font-size: 1.2rem;
+  vertical-align: middle;
+  color: #FF7043;
+}
+
+.btn-disclaimer {
+  background-color: #FF7043;
+  color: #fff;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  border-radius: 0.375rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  transition: background-color 0.3s ease;
+  border: none;
+  cursor: pointer;
+  margin-top: 1rem;
+
+  &:hover {
+    background-color: #FF5722;
+  }
+}
