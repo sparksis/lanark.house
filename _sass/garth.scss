@@ -9,3 +9,61 @@
   "flex",
   "theme"
 ;
+
+.review-summary {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+
+  h2 {
+    margin-top: 0;
+  }
+
+  .rating-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+
+    .rating-title {
+      margin-bottom: 0;
+    }
+  }
+
+  .pros-cons {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+
+  .pros, .cons {
+    flex: 1;
+    min-width: 250px;
+  }
+
+  ul {
+    padding-left: 20px;
+  }
+}
+
+.star-rating {
+  font-size: 1.5rem;
+  color: $linkColour;
+  line-height: 1;
+
+  .star--filled {
+    color: $linkColour;
+  }
+
+  .star--empty {
+    color: #ccc;
+  }
+}
+
+.builder-summary {
+  .star-rating {
+    margin-bottom: 10px;
+  }
+}
