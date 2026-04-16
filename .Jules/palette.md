@@ -1,0 +1,3 @@
+## 2025-01-24 - Accessible Visual Ratings
+**Learning:** When implementing visual ratings (like stars) using Unicode characters, it is critical to ensure the page has `<meta charset="utf-8">` defined, otherwise characters like ★ and ☆ may render as garbled text. Accessibility is best handled by wrapping the rating in a container with `role="img"` and a descriptive `aria-label`, while using `aria-hidden="true"` on the decorative characters themselves to avoid redundant or confusing output for screen readers.
+**Action:** Always verify `charset` in the base layout when introducing Unicode UI elements. Use the `role="img"` + `aria-label` pattern for any decorative-but-meaningful visual indicators.

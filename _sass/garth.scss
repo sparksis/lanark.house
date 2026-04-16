@@ -9,3 +9,31 @@
   "flex",
   "theme"
 ;
+
+// Builder Review Styles
+.review-summary {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+}
+.review-summary h2 {
+  margin-top: 0;
+}
+.review-summary .pros-cons {
+  display: flex;
+  gap: 20px;
+}
+.review-summary .pros, .review-summary .cons {
+  flex: 1;
+}
+.review-summary ul {
+  padding-left: 20px;
+}
+
+// Star Rating
+.star-rating {
+  color: $linkColour;
+  letter-spacing: 2px;
+}
