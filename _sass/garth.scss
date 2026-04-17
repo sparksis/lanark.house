@@ -9,3 +9,13 @@
   "flex",
   "theme"
 ;
+
+.star-rating {
+  color: $linkColour;
+  letter-spacing: 0.1rem;
+  font-family: "Neuton", serif;
+  .star {
+    font-size: 1.2em;
+    vertical-align: middle;
+  }
+}
