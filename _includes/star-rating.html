@@ -1,0 +1,15 @@
+{% comment %}
+  Reusable star rating component.
+  Parameters:
+    rating: (Integer) The rating value from 1 to 5.
+{% endcomment %}
+
+<span role="img" aria-label="{{ include.rating }} out of 5 stars" title="{{ include.rating }} out of 5 stars">
+  {% for i in (1..5) %}
+    {% if i <= include.rating %}
+      <span aria-hidden="true">★</span>
+    {% else %}
+      <span aria-hidden="true" style="color: #ccc;">☆</span>
+    {% endif %}
+  {% endfor %}
+</span>
