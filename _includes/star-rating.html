@@ -4,7 +4,7 @@
     rating: (Integer) The rating value from 1 to 5.
 {% endcomment %}
 
-<span role="img" aria-label="Rating: {{ include.rating }} out of 5 stars" title="{{ include.rating }} out of 5 stars">
+<span role="img" aria-label="{{ include.rating }} out of 5 stars" title="{{ include.rating }} out of 5 stars">
   {% for i in (1..5) %}
     {% if i <= include.rating %}
       <span aria-hidden="true">★</span>
