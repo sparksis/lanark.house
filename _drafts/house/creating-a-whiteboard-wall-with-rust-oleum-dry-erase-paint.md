@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creating a Whiteboard Wall with Rust-Oleum Dry Erase Paint: My Journey to a Writeable Surface"
-date: 
+date: 2026-04-18
 categories: [home improvement, DIY]
 tags: [whiteboard, dry erase paint, Rust-Oleum, home office, smart home]
 ---
