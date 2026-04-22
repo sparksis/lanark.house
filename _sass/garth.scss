@@ -9,3 +9,72 @@
   "flex",
   "theme"
 ;
+
+// Review Summary Styles
+.review-summary {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+
+  h2 {
+    margin-top: 0;
+  }
+
+  .pros-cons {
+    display: flex;
+    gap: 20px;
+
+    @media (max-width: 600px) {
+      flex-direction: column;
+    }
+  }
+
+  .pros, .cons {
+    flex: 1;
+
+    ul {
+      padding-left: 0;
+      list-style-type: none;
+
+      li {
+        position: relative;
+        padding-left: 1.5em;
+        margin-bottom: 0.5em;
+
+        &::before {
+          position: absolute;
+          left: 0;
+          font-weight: bold;
+        }
+      }
+    }
+  }
+
+  .pros li::before {
+    content: "✓";
+    color: #2e7d32;
+  }
+
+  .cons li::before {
+    content: "✖";
+    color: #c62828;
+  }
+}
+
+// Skip to content link
+.screen-reader-shortcut {
+  position: absolute;
+  top: -100px;
+  left: 0;
+  background: #000;
+  color: #fff;
+  padding: 10px;
+  z-index: 1000;
+  text-decoration: none;
+
+  &:focus {
+    top: 0;
+  }
+}
