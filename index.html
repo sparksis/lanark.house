@@ -16,7 +16,7 @@ permalink: /
     <h2><a href="{{ builder_page.url | relative_url }}">{{ builder_page.title }}</a></h2>
     <p><strong>Rating: {% include star-rating.html rating=builder_page.rating %}</strong></p>
     <p>{{ builder_page.content | strip_html | truncatewords: 50 }}</p>
-    <p><a href="{{ builder_page.url | relative_url }}">Read the full review...</a></p>
+    <p><a href="{{ builder_page.url | relative_url }}" aria-label="Read the full review for {{ builder_page.title }}">Read the full review...</a></p>
   </div>
   <hr>
 {% endfor %}
