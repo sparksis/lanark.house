@@ -2,41 +2,7 @@
 layout: default
 ---
 
-<head>
-  <style>
-    .review-summary {
-      border: 1px solid #ddd;
-      padding: 20px;
-      margin-bottom: 20px;
-      background-color: #f9f9f9;
-      border-radius: 5px;
-    }
-    .review-summary h2 {
-      margin-top: 0;
-    }
-    .review-summary .pros-cons {
-      display: flex;
-      gap: 20px;
-    }
-    .review-summary .pros, .review-summary .cons {
-      flex: 1;
-    }
-    .review-summary .pros-cons ul {
-      padding-left: 0;
-      list-style-type: none;
-    }
-    .review-summary .pros li::before {
-      content: "✓ ";
-      color: #2e7d32;
-      font-weight: bold;
-    }
-    .review-summary .cons li::before {
-      content: "✖ ";
-      color: #c62828;
-      font-weight: bold;
-    }
-  </style>
-  <script type="application/ld+json">
+<script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Review",
@@ -68,8 +34,7 @@ layout: default
       "url": "{{ site.url }}"
     }
   }
-  </script>
-</head>
+</script>
 
 {% include site-header.html %}
 
