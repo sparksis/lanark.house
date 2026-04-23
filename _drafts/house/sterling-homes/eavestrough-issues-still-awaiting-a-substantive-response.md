@@ -15,4 +15,12 @@ Later that same day, Don Allary from Empire Envelope, who was CC'd on the email 
 
 This ongoing lack of a comprehensive explanation or a detailed resolution plan is concerning. Proper eavestrough function is critical for the long-term integrity of the home, and a simple "fix" without addressing the root cause or providing assurance of compliance is insufficient.
 
-**Next Steps:** I will continue to pursue a comprehensive resolution for the eavestrough issues. I need a clear and substantive response outlining the proposed solution, addressing my specific concerns about the jointing and water escape, and providing a timeline for its implementation. I may also need to independently verify the quality and compliance of the "fix" if a detailed explanation is not provided.
+### August 2025: Still Waiting for Specifications
+
+By August 15, 2025, the eavestrough repairs remained a major point of contention. I have repeatedly requested the original building material specifications from Sterling to verify that the installation meets code and manufacturer standards. This transparency is crucial, as the current staggered setup flushes liters of water directly against the exterior wall, creating a serious long-term risk of water ingress.
+
+### March 2026: Year-End Follow-up
+
+As part of the upcoming year-end inspection scheduled for May 26, 2026, the eavestrough system must be thoroughly tested for proper drainage and joint integrity. The continued lack of response regarding building specifications is a significant failure in builder accountability.
+
+**Next Steps:** I will ensure that the Year-End Inspection on May 26, 2026, includes a water test of the entire eavestrough system to verify that all pooling and joint leakage issues have been permanently resolved.
