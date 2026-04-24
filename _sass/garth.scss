@@ -9,3 +9,18 @@
   "flex",
   "theme"
 ;
+
+.screen-reader-shortcut {
+  position: absolute;
+  top: -5rem;
+  left: 0;
+  background: $headingColour;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  z-index: 1000;
+  transition: top 0.2s;
+}
+
+.screen-reader-shortcut:focus {
+  top: 0;
+}
