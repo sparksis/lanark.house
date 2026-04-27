@@ -2,39 +2,74 @@
 layout: default
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Review",
-  "itemReviewed": {
-    "@type": "HomeBuilder",
-    "name": "{{ page.title }}",
-    "url": "{{ page.url | absolute_url }}",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "{{ page.address.streetAddress }}",
-      "addressLocality": "{{ page.address.addressLocality }}",
-      "addressRegion": "{{ page.address.addressRegion }}",
-      "postalCode": "{{ page.address.postalCode }}"
+<head>
+  <style>
+    .review-summary {
+      border: 1px solid #ddd;
+      padding: 20px;
+      margin-bottom: 20px;
+      background-color: #f9f9f9;
+      border-radius: 5px;
     }
-  },
-  "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": "{{ page.rating }}",
-    "bestRating": "5",
-    "worstRating": "1"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Colton English"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "lanark.house",
-    "url": "{{ site.url }}"
+    .review-summary h2 {
+      margin-top: 0;
+    }
+    .review-summary .pros-cons {
+      display: flex;
+      gap: 20px;
+    }
+    .review-summary .pros, .review-summary .cons {
+      flex: 1;
+    }
+    .review-summary .pros-cons ul {
+      padding-left: 0;
+      list-style-type: none;
+    }
+    .review-summary .pros li::before {
+      content: "✓ ";
+      color: #2e7d32;
+      font-weight: bold;
+    }
+    .review-summary .cons li::before {
+      content: "✖ ";
+      color: #c62828;
+      font-weight: bold;
+    }
+  </style>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Review",
+    "itemReviewed": {
+      "@type": "HomeBuilder",
+      "name": "{{ page.title }}",
+      "url": "{{ page.url | absolute_url }}",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "{{ page.address.streetAddress }}",
+        "addressLocality": "{{ page.address.addressLocality }}",
+        "addressRegion": "{{ page.address.addressRegion }}",
+        "postalCode": "{{ page.address.postalCode }}"
+      }
+    },
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "{{ page.rating }}",
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Colton English"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "lanark.house",
+      "url": "{{ site.url }}"
+    }
   }
-}
-</script>
+  </script>
+</head>
 
 {% include site-header.html %}
 
