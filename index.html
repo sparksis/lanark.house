@@ -12,11 +12,11 @@ permalink: /
 
 {% assign builder_pages = site.pages | where_exp: "page", "page.path contains 'builders/'" | sort: "rating" %}
 {% for builder_page in builder_pages %}
-  <div class="builder-summary">
+  <div class="review-summary">
     <h2><a href="{{ builder_page.url | relative_url }}">{{ builder_page.title }}</a></h2>
     <p><strong>Rating: {% include star-rating.html rating=builder_page.rating %}</strong></p>
     <p>{{ builder_page.content | strip_html | truncatewords: 50 }}</p>
-    <p><a href="{{ builder_page.url | relative_url }}">Read the full review...</a></p>
+    <p><a href="{{ builder_page.url | relative_url }}" aria-label="Read the full review for {{ builder_page.title | escape }}">Read the full review...</a></p>
   </div>
   <hr>
 {% endfor %}
