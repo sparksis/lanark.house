@@ -18,3 +18,9 @@ The core purpose of the app was to submit tickets for deficiencies and service r
 The app wasn't just a communication barrier; it was fundamentally broken on a technical level. I discovered that the "task feature," a piece of core functionality, was completely inaccessible on my Google Pixel phone. The app's navigation menu rendered *underneath* the native Android navigation buttons, making it physically impossible to tap the "task" icon. This isn't an edge case; Google's Pixel phones have a significant market share. To have a critical bug like this go unaddressed is a sign of gross negligence in software development and testing.
 
 The Virtuo app was more than just an inconvenience; it was a black hole where my service requests went to die. It was a system that seemed designed to create the illusion of support while providing none. As someone who works in a related industry, I was appalled. It was clear that Sterling had outsourced their customer service to a third-party platform without any apparent concern for its quality or functionality. The result was a pure net negative on my homeownership experience, a constant source of frustration that undermined any goodwill that had been built during the sales process.
+
+### August 2025: Persistence Pays (Barely)
+
+It wasn't until late August 2025—months after possession—that I finally received some of the documentation I had been requesting. On August 20, 2025, I received an email from "Virtuo" with the snippet: "Please see attached for the files you have requested to be emailed to you, through the Virtuo app."
+
+While the files were eventually provided, the process required significant persistence on my part and highlighted the "void" that is their centralized communication system. The fact that standard documentation required months of follow-up via a broken app is a testament to the fundamental flaws in this outsourced model.

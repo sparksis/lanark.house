@@ -112,6 +112,13 @@ This was the **final and successful** purchase.
 *   **Deborah Curran** (Sterling Homes): deborah.curran@sterlingcalgary.com
 *   **Classic Fireplace** (Vendor): (403) 279-4448
 *   **Shaun Loughren** (Enercare/Classic Fireplace Service Manager): Shaun.Loughren@enercare.ca
+*   **Virtuo** (Partner of Sterling Homes)
+    *   hello@virtuo.email
+    *   concierge@virtuo.email
+    *   hello@virtuo.com
+    *   notifications@virtuo.com
+    *   noreply@virtuo.com
+    *   homie@virtuo.com
 
 ## Workflow Rules
 
