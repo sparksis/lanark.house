@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A Chronicle of Pervasive Negligence: The Sterling Homes Warranty Failure"
+date: 2026-05-29
 categories: [house, sterling-homes, warranty]
 tags: [warranty, sterling homes, negligence, home construction, Airdrie]
 ---
