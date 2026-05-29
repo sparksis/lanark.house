@@ -24,3 +24,58 @@
 .screen-reader-shortcut:focus {
   top: 0;
 }
+
+.review-summary {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: $white;
+  border-radius: 8px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+
+  h2 {
+    margin-top: 0;
+  }
+
+  .pros-cons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+
+    .pros, .cons {
+      flex: 1;
+      min-width: 250px;
+
+      ul {
+        padding-left: 0;
+        list-style-type: none;
+
+        li {
+          position: relative;
+          padding-left: 1.5rem;
+
+          &::before {
+            position: absolute;
+            left: 0;
+            font-weight: bold;
+          }
+        }
+      }
+    }
+
+    .pros li::before {
+      content: "✓";
+      color: #2e7d32;
+    }
+
+    .cons li::before {
+      content: "✖";
+      color: #c62828;
+    }
+  }
+}
